@@ -1,13 +1,31 @@
-Podkova is a monoline slab serif with diagonal terminals. 
-Wide proportions and clean features aid to legibility at small sizes. 
-Its unusual letterforms provide enough character to be used at display sizes. 
-Podkova is the Russian word for Horseshoe. 
-Try it and see if the lucky charm works for you!
+# Podkova fonts
 
-Designed by Ilya Yudin.
+Open-source by Ilya Yudin for Cyreal
 
-Podkova is a Unicode typeface family that supports 
-languages that use the Latin script and its variants, and 
-could be expanded to support other scripts.
+Podkova is a monoline slab serif with diagonal terminals. Wide proportions and clean features aid to legibility at small sizes. Its unusual letterforms provide enough character to be used at display sizes. Podkova is the Russian word for Horseshoe. Try it and see if the lucky charm works for you!
 
-![Podkova Font](src/sample.png)
+Podkova is a Unicode typeface family that supports languages that use the Latin and Cyrillic script and its variants, and could be expanded to support other scripts.
+
+#### Supported glyphs sets:
+
+* Core Latin 
+* GF Cyrillic Plus
+
+![Podkova Font](source/sample.png)
+
+## License
+
+This Font Software is licensed under the SIL Open Font License, Version 1.1.
+This license is copied below, and is also available with a FAQ at:
+http://scripts.sil.org/OFL
+
+## Copyright
+
+Copyright (c) 2011, Cyreal (www.cyreal.org), with Reserved Font Name "Podkova".
+
+## Links
+
+* [Podkova on Google Fonts](1)
+
+[1]: https://fonts.google.com/specimen/Podkova
+
