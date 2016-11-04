@@ -2,13 +2,11 @@
 # Reference
 # Script, Category, Subcategory, value, referenceGlyph, filter
 *,Letter,Uppercase,1.25,H,*,
-*,Letter,Smallcaps,1.1,h.sc,*,
 *,Letter,Lowercase,1,x,*,
 *,Letter,Lowercase,0.7,m.sups,.sups,
 
 # Numbers
 *,Number,Decimal Digit,1.2,one,*,
-*,Number,Decimal Digit,1.2,zero.osf,.osf,
 *,Number,Fraction,1.3,*,*,
 *,Number,*,0.8,*,.dnom,
 *,Number,*,0.8,*,.numr,
@@ -27,7 +25,3 @@
 *,Symbol,Currency,1.6,*,*,
 *,Symbol,*,1.5,*,*,
 *,Mark,*,1,*,*,
-
-# Devanagari
-devanagari,Letter,Other,1,devaHeight,*,
-devanagari,Letter,Ligature,1,devaHeight,*,
