@@ -1,9 +1,9 @@
 {
-.appVersion = "934";
+.appVersion = "935";
 DisplayStrings = (
 "HHHHOOOOO\012HOHOHOHOHO\012ABCDEFGHIJK\012LMNOPQ\012RSTUVWXYZ\012nbn\012non\012\012ABCDEFGHIJKLMNO\012PQRSTUVWXYZ\012abocdenfgh/idotless/jdotless klmno\012pqrstuvwxyzninja\012\012nvn nwn nxn\012HVH HWH HXH\012VWXvwx"
 );
-copyright = "Copyright (c) 2011, Cyreal (www.cyreal.org) with Reserved Font Name \"Podkova\"";
+copyright = "Copyright (c) 2011, Cyreal (www.cyreal.org)";
 customParameters = (
 {
 name = trademark;
