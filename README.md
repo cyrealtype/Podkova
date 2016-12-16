@@ -21,7 +21,7 @@ http://scripts.sil.org/OFL
 
 ## Copyright
 
-Copyright (c) 2011, Cyreal (www.cyreal.org).
+Copyright (c) 2011 the Podkova Project authors (contact@cyreal.org).
 
 ## Links
 
@@ -30,8 +30,7 @@ Copyright (c) 2011, Cyreal (www.cyreal.org).
 [1]: https://fonts.google.com/specimen/Podkova
 
 ## Todo
-* GF Cyrillic Pro
-* GF Latin Pro
+* Expand to GF Cyrillic Pro, GF Latin Pro
 * Generate styles:
 	* 400 Regular
 	* 500 Medium
