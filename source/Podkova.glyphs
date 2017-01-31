@@ -1,7 +1,7 @@
 {
 .appVersion = "939";
 DisplayStrings = (
-"OOA/Che-cy OOHHA/Che-cy HH\012OOAOOOHHAOHH\012OOATOOHHATHH\012OOAUOOHHAUHH\012OOA/U-cy OOHHA/U-cy HH\012OOAVOOHHAVHH\012OOAYOOHHAYHH\012OOA/Ze-cy OOHHA/Ze-cy HH\012OOAaooHHAann\012OOA*OOHHA*HH\012OOA/be-cy ooHHA/be-cy nn\012OOA/che-cy ooHHA/che-cy nn\012OOAgooHHAgnn\012OOA-OOHHA-HH\012OOAoooHHAonn\012OOA/quoteleft OOHHA/quoteleft HH\012OOA'OOHHA'HH\012OOAtooHHAtnn\012OOA/te-cy ooHHA/te-cy nn\012OOAuooHHAunn\012OOAvooHHAvnn\012OOAyooHHAynn\012OOBAOOHHBAHH\012OOB/Che-cy OOHBHBB/Che-cy HH\012OOB/De-cy OOHHB/De-cy HH\012OOB/El-cy OOHHB/El-cy HH\012OOB/U-cy OOHHB/U-cy HH\012OOBVOOHHBVHH\012OOBXOOHHBXHH\012OOBYOOHHBYHH\012OOB/che-cy ooHHB/che-cy nn\012OOB/de-cy ooHHB/de-cy nn\012OOB/el-cy ooHHB/el-cy nn\012OOB/ia-cy ooHHB/ia-cy nn\012OOB'OOHHB'HH\012OOBxooHHBxnn\012OOByooHHBynn\012OO/Be-cy/Che-cy OOHH/Be-cy H\012OO/Be-cy/De-cy OOHH/Be-cy/De-cy HH\012OO/Be-cy XOOHH/Be-cy XHH\012OO/Be-cy/de-cy ooHH/Be-cy/de-cy nn\012OO/Be-cy/el-cy ooHH/Be-cy/el-cy nn\012OO/Be-cy xooHH/Be-cy xnn\012OO/Be-cy yooHH/Be-cy ynn\012OOCYOOHHCYHH\012OOC/che-cy ooHHC/che-cy nn\012OOC/el-cy ooHHC/el-cy nn\012OOCoooHHConn\012OOCuooHHCunn\012OOCvooHHCvnn\012OOCyooHHCynn\012OODAOOHHDAHH\012OODJOOHHDJHH\012OODVOOHHDVHH\012OODXOOHHDXHH\012OODYOOHHDYHH\012OOD.OOHHD.HH\012OOE/el-cy ooHHE/el-cy nn\012OOE/te-cy ooHHE/te-cy nn\012OOEvooHHEvnn\012OOEyooHHEynn\012OOFAOOHHFAHH\012OOFJOOHHFJHH\012OOFaooHHFann\012OOF.OOHHF.HH\012OO/Ge-cy AOOHH/Ge-cy AHH\012OO/Ge-cy/De-cy OOHH/Ge-cy/De-cy HH\012OO/Ge-cy/El-cy OOHH/Ge-cy/El-cy HH\012OO/Ge-cy/Ia-cy OOHH/Ge-cy/Ia-cy HH\012OO/Ge-cy/Ze-cy OOHH/Ge-cy/Ze-cy HH\012OO/Ge-cy aooHH/Ge-cy ann\012OO/Ge-cy/be-cy ooHH/Ge-cy/be-cy nn\012OO/Ge-cy/che-cy ooHH/Ge-cy/che-cy nn\012OO/Ge-cy :OOHH/Ge-cy :HH\012OO/Ge-cy/de-cy ooHH/Ge-cy/de-cy nn\012OO/Ge-cy/el-cy ooHH/Ge-cy/el-cy nn\012OO/Ge-cy/ereversed-cy ooHH/Ge-cy/ereversed-cy nn\012OO/Ge-cy/guilsinglright OOHH/Ge-cy/guilsinglright HH\012OO/Ge-cy -OOHH/Ge-cy -HH\012OO/Ge-cy/ia-cy ooHH/Ge-cy/ia-cy nn\012OO/Ge-cy nooHH/Ge-cy nnn\012OO/Ge-cy oooHH/Ge-cy onn\012OO/Ge-cy .OOHH/Ge-cy .HH\012OO/Ge-cy sooHH/Ge-cy snn\012OO/Ge-cy/te-cy ooHH/Ge-cy/te-cy nn\012OO/Ge-cy vooHH/Ge-cy vnn\012OO/Ge-cy xooHH/Ge-cy xnn\012OO/Ge-cy/ze-cy ooHH/Ge-cy/ze-cy nn\012OO/Ge-cy/zhe-cy ooHH/Ge-cy/zhe-cy nn\012OOH/che-cy ooHHH/che-cy nn\012OOHoooHHHonn\012OOH/te-cy ooHHH/te-cy nn\012OOHvooHHHvnn\012OOK/Che-cy OOHHK/Che-cy HH\012OOKOOOHHKOHH\012OOKUOOHHKUHH\012OOKaooHHKann\012OOK/be-cy ooHHK/be-cy nn\012OOK/che-cy ooHHK/che-cy nn\012OOKgooHHKgnn\012OOK-OOHHK-HH\012OOKoooHHKonn\012OOK'OOHHK'HH\012OOKsooHHKsnn\012OOKtooHHKtnn\012OOK/te-cy ooHHK/te-cy nn\012OOKuooHHKunn\012OOKvooHHKvnn\012OOKyooHHKynn\012OO/Ka-cy/be-cy ooHH/Ka-cy/be-cy nn\012OO/Ka-cy/che-cy ooHH/Ka-cy/che-cy nn\012OO/Ka-cy/el-cy ooHH/Ka-cy/el-cy nn\012OO/Ka-cy oooHH/Ka-cy onn\012OO/Ka-cy/te-cy ooHH/Ka-cy/te-cy nn\012OO/Ka-cy yooHH/Ka-cy ynn\012OOLOOOHHLOHH\012OOLTOOHHLTHH\012OOLVOOHHLVHH\012OOLYOOHHLYHH\012OOL/quoteleft OOHHL/quoteleft HH\012OOL'OOHHL'HH\012OOLvooHHLvnn\012OOLyooHHLynn\012OOOAOOHHOAHH\012OOO/De-cy OOHHO/De-cy HH\012OOO/El-cy OOHHO/El-cy HH\012OOOJOOHHOJHH\012OOOOOOHHOOHH\012OOOTOOHHOTHH\012OOO/U-cy OOHHO/U-cy HH\012OOOVOOHHOVHH\012OOOXOOHHOXHH\012OOOYOOHHOYHH\012OOO/Ze-cy OOHHO/Ze-cy HH\012OOO/de-cy ooHHO/de-cy nn\012OOO/el-cy ooHHO/el-cy nn\012OOO/ia-cy ooHHO/ia-cy nn\012OOO.OOHHO.HH\012OOO'OOHHO'HH\012OOPAOOHHPAHH\012OOP/De-cy OOHHP/De-cy HH\012OOP/El-cy OOHHP/El-cy HH\012OOPJOOHHPJHH\012OOPXOOHHPXHH\012OOPaooHHPann\012OOP/de-cy ooHHP/de-cy nn\012OOP/el-cy ooHHP/el-cy nn\012OOPgooHHPgnn\012OOP/ia-cy ooHHP/ia-cy nn\012OOPoooHHPonn\012OOP.OOHHP.HH\012OOPsooHHPsnn\012OOPzooHHPznn\012OOROOOHHROHH\012OORUOOHHRUHH\012OORVOOHHRVHH\012OORYOOHHRYHH\012OORvooHHRvnn\012OORyooHHRynn\012OOSVOOHHSVHH\012OOSYOOHHSYHH\012OOS/che-cy ooHHS/che-cy nn\012OOS/el-cy ooHHS/el-cy nn\012OOSvooHHSvnn\012OOSyooHHSynn\012OO/Softsign-cy/Che-cy OOHH/Softsign-cy HH\012OO/Softsign-cy/De-cy OOHH/Softsign-cy/De-cy HH\012OO/Softsign-cy TOOHH/Softsign-cy THH\012OO/Softsign-cy/U-cy OOHH/Softsign-cy/U-cy HH\012OO/Softsign-cy XOOHH/Softsign-cy XHH\012OO/Softsign-cy 'OOHH/Softsign-cy 'HH\012OOTAOOHHTAHH\012OOT/De-cy OOHHT/De-cy HH\012OOT/El-cy OOHHT/El-cy HH\012OOTJOOHHTJHH\012OOTOOOHHTOHH\012OOTaooHHTann\012OOT/be-cy ooHHT/be-cy nn\012OOT/che-cy ooHHT/che-cy nn\012OOT:OOHHT:HH\012OOT/de-cy ooHHT/de-cy nn\012OOT/el-cy ooHHT/el-cy nn\012OOT/ereversed-cy ooHHT/ereversed-cy nn\012OOTfooHHTfnn\012OOTgooHHTgnn\012OOT/guilsinglright OOHHT/guilsinglright HH\012OOT-OOHHT-HH\012OOT/ia-cy ooHHT/ia-cy nn\012OOTnooHHTnnn\012OOToooHHTonn\012OOT.OOHHT.HH\012OOTsooHHTsnn\012OOTtooHHTtnn\012OOT/te-cy ooHHT/te-cy nn\012OOTuooHHTunn\012OOTvooHHTvnn\012OOTxooHHTxnn\012OOTyooHHTynn\012OOTzooHHTznn\012OOT/ze-cy ooHHT/ze-cy nn\012OOT/zhe-cy ooHHT/zhe-cy nn\012OO/Tse-cy/che-cy ooHH/Tse-cy/che-cy nn\012OO/Tse-cy -OOHH/Tse-cy -HH\012OO/Tse-cy oooHH/Tse-cy onn\012OO/Tse-cy/te-cy ooHH/Tse-cy/te-cy nn\012OO/Tse-cy vooHH/Tse-cy vnn\012OOUAOOHHUAHH\012OOUJOOHHUJHH\012OOUOOOHHUOHH\012OOUaooHHUann\012OOUfooHHUfnn\012OOUgooHHUgnn\012OOUhooHHUhnn\012OOUnooHHUnnn\012OOUoooHHUonn\012OOU.OOHHU.HH\012OOUsooHHUsnn\012OOUtooHHUtnn\012OOUuooHHUunn\012OOUvooHHUvnn\012OOUyooHHUynn\012OOUzooHHUznn\012OO/U-cy AOOHH/U-cy AHH\012OO/U-cy/De-cy OOHH/U-cy/De-cy HH\012OO/U-cy/El-cy OOHH/U-cy/El-cy HH\012OO/U-cy/Ia-cy OOHH/U-cy/Ia-cy HH\012OO/U-cy OOOHH/U-cy OHH\012OO/U-cy aooHH/U-cy ann\012OO/U-cy/be-cy ooHH/U-cy/be-cy nn\012OO/U-cy/che-cy ooHH/U-cy/che-cy nn\012OO/U-cy :OOHH/U-cy :HH\012OO/U-cy/de-cy ooHH/U-cy/de-cy nn\012OO/U-cy/el-cy ooHH/U-cy/el-cy nn\012OO/U-cy/ereversed-cy ooHH/U-cy/ereversed-cy nn\012OO/U-cy/guilsinglright OOHH/U-cy/guilsinglright HH\012OO/U-cy -OOHH/U-cy -HH\012OO/U-cy/ia-cy ooHH/U-cy/ia-cy nn\012OO/U-cy nooHH/U-cy nnn\012OO/U-cy oooHH/U-cy onn\012OO/U-cy .OOHH/U-cy .HH\012OO/U-cy sooHH/U-cy snn\012OO/U-cy/te-cy ooHH/U-cy/te-cy nn\012OO/U-cy uooHH/U-cy unn\012OO/U-cy xooHH/U-cy xnn\012OO/U-cy yooHH/U-cy ynn\012OO/U-cy/ze-cy ooHH/U-cy/ze-cy nn\012OO/U-cy/zhe-cy ooHH/U-cy/zhe-cy nn\012OOVAOOHHVAHH\012OOV/De-cy OOHHV/De-cy HH\012OOV/El-cy OOHHV/El-cy HH\012OOVJOOHHVJHH\012OOVOOOHHVOHH\012OOV/Ze-cy OOHHV/Ze-cy HH\012OOVaooHHVann\012OOV/be-cy ooHHV/be-cy nn\012OOV/che-cy ooHHV/che-cy nn\012OOV:OOHHV:HH\012OOV/de-cy ooHHV/de-cy nn\012OOV/el-cy ooHHV/el-cy nn\012OOV/ereversed-cy ooHHV/ereversed-cy nn\012OOVfooHHVfnn\012OOVgooHHVgnn\012OOV-OOHHV-HH\012OOV/ia-cy ooHHV/ia-cy nn\012OOVnooHHVnnn\012OOVoooHHVonn\012OOV.OOHHV.HH\012OOVsooHHVsnn\012OOV/te-cy ooHHV/te-cy nn\012OOVuooHHVunn\012OOVvooHHVvnn\012OOVxooHHVxnn\012OOVyooHHVynn\012OOVzooHHVznn\012OOV/ze-cy ooHHV/ze-cy nn\012OOXOOOHHXOHH\012OOXaooHHXann\012OOX/be-cy ooHHX/be-cy nn\012OOX/che-cy ooHHX/che-cy nn\012OOXgooHHXgnn\012OOX-OOHHX-HH\012OOXoooHHXonn\012OOXsooHHXsnn\012OOXtooHHXtnn\012OOX/te-cy ooHHX/te-cy nn\012OOXuooHHXunn\012OOXvooHHXvnn\012OOXyooHHXynn\012OOYAOOHHYAHH\012OOYJOOHHYJHH\012OOYOOOHHYOHH\012OOYaooHHYann\012OOY:OOHHY:HH\012OOYfooHHYfnn\012OOY4OOHHY4HH\012OOYgooHHYgnn\012OOY-OOHHY-HH\012OOYnooHHYnnn\012OOYoooHHYonn\012OOY.OOHHY.HH\012OOYsooHHYsnn\012OOYtooHHYtnn\012OOYuooHHYunn\012OOYvooHHYvnn\012OOYxooHHYxnn\012OOYyooHHYynn\012OOYzooHHYznn\012OOZ-OOHHZ-HH\012OOZvooHHZvnn\012OOZyooHHZynn\012ooa/che-cy oonna/che-cy nn\012ooavoonnavnn\012ooayoonnaynn\012OO*AOOHH*AHH\012ooc/U-cy OOnnc/U-cy HH\012oocaoonncann\012ooc/de-cy oonnc/de-cy nn\012ooc/el-cy oonnc/el-cy nn\012ooeTOOnneTHH\012ooe/U-cy OOnne/U-cy HH\012ooe/de-cy oonne/de-cy nn\012ooe/el-cy oonne/el-cy nn\012ooe/quoteleft OOnne/quoteleft HH\012ooe'OOnne'HH\012ooevoonnevnn\012ooexoonnexnn\012ooeyoonneynn\012oofgoonnfgnn\012oofooonnfonn\012oof.OOnnf.HH\012oofsoonnfsnn\012oogooonngonn\012oo/ge-cy/De-cy OOnn/ge-cy/De-cy HH\012oo/ge-cy TOOnn/ge-cy THH\012oo/ge-cy/U-cy OOnn/ge-cy/U-cy HH\012oo/ge-cy XOOnn/ge-cy XHH\012oo/ge-cy/de-cy oonn/ge-cy/de-cy nn\012oo/ge-cy/el-cy oonn/ge-cy/el-cy nn\012oo/ge-cy/ia-cy oonn/ge-cy/ia-cy nn\012oo/ge-cy .OOnn/ge-cy .HH\012OO/guilsinglleft TOOHH/guilsinglleft THH\012OO/guilsinglleft/U-cy OOHH/guilsinglleft/U-cy HH\012OO-AOOHH-AHH\012OO-/Che-cy OOHH-/Che-cy HH\012OO-/De-cy OOHH-/De-cy HH\012OO-/El-cy OOHH-/El-cy HH\012OO-TOOHH-THH\012OO-/U-cy OOHH-/U-cy HH\012OO-VOOHH-VHH\012OO-XOOHH-XHH\012OO-ZOOHH-ZHH\012OO-/de-cy ooHH-/de-cy nn\012OO-/el-cy ooHH-/el-cy nn\012OO-7OOHH-7HH\012OO-2OOHH-2HH\012OO-xooHH-xnn\012ookTOOnnkTHH\012ook/U-cy OOnnk/U-cy HH\012ookaoonnkann\012ook/be-cy oonnk/be-cy nn\012ook/che-cy oonnk/che-cy nn\012ookooonnkonn\012ookvoonnkvnn\012oo/ka-cy/el-cy oonn/ka-cy/el-cy nn\012oonTOOnnnTHH\012oon/U-cy OOnnn/U-cy HH\012oon/quoteleft OOnnn/quoteleft HH\012oon'OOnnn'HH\012oonvoonnnvnn\012oonyoonnnynn\012OO9.OOHH9.HH\012OO9'OOHH9'HH\012ooo/De-cy OOnno/De-cy HH\012oooTOOnnoTHH\012ooo/U-cy OOnno/U-cy HH\012oooXOOnnoXHH\012ooo/che-cy oonno/che-cy nn\012ooo/de-cy oonno/de-cy nn\012ooo/el-cy oonno/el-cy nn\012ooo/ia-cy oonno/ia-cy nn\012ooo/quoteleft OOnno/quoteleft HH\012ooo'OOnno'HH\012ooo7OOnno7HH\012ooovoonnovnn\012oooxoonnoxnn\012oooyoonnoynn\012ooozoonnoznn\012oop/che-cy oonnp/che-cy nn\012oop/de-cy oonnp/de-cy nn\012oop/el-cy oonnp/el-cy nn\012oop/ia-cy oonnp/ia-cy nn\012oopxoonnpxnn\012oopyoonnpynn\012OO.OOOHH.OHH\012OO.TOOHH.THH\012OO./che-cy ooHH./che-cy nn\012OO.9OOHH.9HH\012OO.0OOHH.0HH\012OO\U00BFJOOHH\U00BFJHH\012OO/quoteleft AOOHH/quoteleft AHH\012OO/quoteleft/De-cy OOHH/quoteleft/De-cy HH\012OO/quoteleft/El-cy OOHH/quoteleft/El-cy HH\012OO/quoteleft sooHH/quoteleft snn\012OO'AOOHH'AHH\012OO'/De-cy OOHH'/De-cy HH\012OO'/El-cy OOHH'/El-cy HH\012OO'OOOHH'OHH\012OO'aooHH'ann\012OO'/che-cy ooHH'/che-cy nn\012OO'/de-cy ooHH'/de-cy nn\012OO'/el-cy ooHH'/el-cy nn\012OO'/ereversed-cy ooHH'/ereversed-cy nn\012OO'/ia-cy ooHH'/ia-cy nn\012OO'nooHH'nnn\012OO'oooHH'onn\012OO'sooHH'snn\012OO'0OOHH'0HH\012oorooonnronn\012oor.OOnnr.HH\012oosTOOnnsTHH\012oos/U-cy OOnns/U-cy HH\012OO74OOHH74HH\012OO7-OOHH7-HH\012OO7oooHH7onn\012OO7.OOHH7.HH\012oo/softsign-cy/El-cy OOnn/softsign-cy/El-cy HH\012oo/softsign-cy OOOnn/softsign-cy OHH\012oo/softsign-cy TOOnn/softsign-cy THH\012oo/softsign-cy/U-cy OOnn/softsign-cy/U-cy HH\012oo/softsign-cy/che-cy oonn/softsign-cy/che-cy nn\012oo/softsign-cy/quoteleft OOnn/softsign-cy/quoteleft HH\012oo/softsign-cy 'OOnn/softsign-cy 'HH\012oo/softsign-cy/te-cy oonn/softsign-cy/te-cy nn\012oo/softsign-cy voonn/softsign-cy vnn\012oo/softsign-cy xoonn/softsign-cy xnn\012oo/softsign-cy yoonn/softsign-cy ynn\012ootgoonntgnn\012ootooonntonn\012oot'OOnnt'HH\012ootsoonntsnn\012oo/te-cy AOOnn/te-cy AHH\012oo/te-cy/U-cy OOnn/te-cy/U-cy HH\012oo/te-cy XOOnn/te-cy XHH\012oo/te-cy/de-cy oonn/te-cy/de-cy nn\012oo/te-cy/el-cy oonn/te-cy/el-cy nn\012oo/te-cy/ia-cy oonn/te-cy/ia-cy nn\012oo/te-cy .OOnn/te-cy .HH\012oo/tse-cy TOOnn/tse-cy THH\012oo/tse-cy/U-cy OOnn/tse-cy/U-cy HH\012oouTOOnnuTHH\012oou/U-cy OOnnu/U-cy HH\012oou'OOnnu'HH\012oov/De-cy OOnnv/De-cy HH\012oovTOOnnvTHH\012oov/U-cy OOnnv/U-cy HH\012oovXOOnnvXHH\012oovaoonnvann\012oov/de-cy oonnv/de-cy nn\012oov/el-cy oonnv/el-cy nn\012oovgoonnvgnn\012oovooonnvonn\012oov.OOnnv.HH\012oov'OOnnv'HH\012oovsoonnvsnn\012oo/ve-cy TOOnn/ve-cy THH\012oo/ve-cy/U-cy OOnn/ve-cy/U-cy HH\012oo/ve-cy/che-cy oonn/ve-cy/che-cy nn\012oo/ve-cy/de-cy oonn/ve-cy/de-cy nn\012oo/ve-cy/el-cy oonn/ve-cy/el-cy nn\012oo/ve-cy 'OOnn/ve-cy 'HH\012oo/ve-cy voonn/ve-cy vnn\012oo/ve-cy xoonn/ve-cy xnn\012oo/ve-cy yoonn/ve-cy ynn\012ooxTOOnnxTHH\012oox/U-cy OOnnx/U-cy HH\012ooxaoonnxann\012oox/be-cy oonnx/be-cy nn\012oox/che-cy oonnx/che-cy nn\012oox/ereversed-cy oonnx/ereversed-cy nn\012ooxgoonnxgnn\012oox-OOnnx-HH\012ooxooonnxonn\012ooxsoonnxsnn\012oox/ze-cy oonnx/ze-cy nn\012ooyTOOnnyTHH\012ooy/U-cy OOnny/U-cy HH\012ooyXOOnnyXHH\012ooyaoonnyann\012ooy/de-cy oonny/de-cy nn\012ooy/el-cy oonny/el-cy nn\012ooygoonnygnn\012ooy/ia-cy oonny/ia-cy nn\012ooyooonnyonn\012ooy.OOnny.HH\012ooysoonnysnn\012oozooonnzonn\012OO0.OOHH0.HH\012OO0'OOHH0'HH\012OO07OOHH07HH\012OO})OOHH})HH\012OO)]OOHH)]HH\012OO)}OOHH)}HH\012OO))OOHH))HH\012OO))OOHH))HH"
+"OOA/Che-cy OOHHA/Che-cy HH\012OOAOOOHHAOHH\012OOATOOHHATHH\012OOAUOOHHAUHH\012OOA/U-cy OOHHA/U-cy HH\012OOAVOOHHAVHH\012OOAYOOHHAYHH\012OOA/Ze-cy OOHHA/Ze-cy HH\012OOAaooHHAann\012OOA*OOHHA*HH\012OOA/be-cy ooHHA/be-cy nn\012OOA/che-cy ooHHA/che-cy nn\012OOAgooHHAgnn\012OOA-OOHHA-HH\012OOAoooHHAonn\012OOA/quoteleft OOHHA/quoteleft HH\012OOA'OOHHA'HH\012OOAtooHHAtnn\012OOA/te-cy ooHHA/te-cy nn\012OOAuooHHAunn\012OOAvooHHAvnn\012OOAyooHHAynn\012OOBAOOHHBAHH\012OOB/Che-cy OOHHBHBH\012OOB/De-cy OOHHB/De-cy HH\012OOB/El-cy OOHHB/El-cy HH\012OOB/U-cy OOHHB/U-cy HH\012OOBVOOHHBVHH\012OOBXOOHHBXHH\012OOBYOOHHBYHH\012OOB/che-cy ooHHB/che-cy nn\012OOB/de-cy ooHHB/de-cy nn\012OOB/el-cy ooHHB/el-cy nn\012OOB/ia-cy ooHHB/ia-cy nn\012OOB'OOHHB'HH\012OOBxooHHBxnn\012OOByooHHBynn\012OO/Be-cy/Che-cy OOHH/Be-cy HH\012OO/Be-cy/De-cy OOHH/Be-cy/De-cy HH\012OO/Be-cy XOOHH/Be-cy XHH\012OO/Be-cy/de-cy ooHH/Be-cy/de-cy nn\012OO/Be-cy/el-cy ooHH/Be-cy/el-cy nn\012OO/Be-cy xooHH/Be-cy xnn\012OO/Be-cy yooHH/Be-cy ynn\012OOCYOOHHCYHH\012OOC/che-cy ooHHC/che-cy nn\012OOC/el-cy ooHHC/el-cy nn\012OOCoooHHConn\012OOCuooHHCunn\012OOCvooHHCvnn\012OOCyooHHCynn\012OODAOOHHDAHH\012OODJOOHHDJHH\012OODVOOHHDVHH\012OODXOOHHDXHH\012OODYOOHHDYHH\012OOD.OOHHD.HH\012OOE/el-cy ooHHE/el-cy nn\012OOE/te-cy ooHHE/te-cy nn\012OOEvooHHEvnn\012OOEyooHHEynn\012OOFAOOHHFAHH\012OOFJOOHHFJHH\012OOFaooHHFann\012OOF.OOHHF.HH\012OO/Ge-cy AOOHH/Ge-cy AHH\012OO/Ge-cy/De-cy OOHH/Ge-cy/De-cy HH\012OO/Ge-cy/El-cy OOHH/Ge-cy/El-cy HH\012OO/Ge-cy/Ia-cy OOHH/Ge-cy/Ia-cy HH\012OO/Ge-cy/Ze-cy OOHH/Ge-cy/Ze-cy HH\012OO/Ge-cy aooHH/Ge-cy ann\012OO/Ge-cy/be-cy ooHH/Ge-cy/be-cy nn\012OO/Ge-cy/che-cy ooHH/Ge-cy/che-cy nn\012OO/Ge-cy :OOHH/Ge-cy :HH\012OO/Ge-cy/de-cy ooHH/Ge-cy/de-cy nn\012OO/Ge-cy/el-cy ooHH/Ge-cy/el-cy nn\012OO/Ge-cy/ereversed-cy ooHH/Ge-cy/ereversed-cy nn\012OO/Ge-cy/guilsinglright OOHH/Ge-cy/guilsinglright HH\012OO/Ge-cy -OOHH/Ge-cy -HH\012OO/Ge-cy/ia-cy ooHH/Ge-cy/ia-cy nn\012OO/Ge-cy nooHH/Ge-cy nnn\012OO/Ge-cy oooHH/Ge-cy onn\012OO/Ge-cy .OOHH/Ge-cy .HH\012OO/Ge-cy sooHH/Ge-cy snn\012OO/Ge-cy/te-cy ooHH/Ge-cy/te-cy nn\012OO/Ge-cy vooHH/Ge-cy vnn\012OO/Ge-cy xooHH/Ge-cy xnn\012OO/Ge-cy/ze-cy ooHH/Ge-cy/ze-cy nn\012OO/Ge-cy/zhe-cy ooHH/Ge-cy/zhe-cy nn\012OOH/che-cy ooHHH/che-cy nn\012OOHoooHHHonn\012OOH/te-cy ooHHH/te-cy nn\012OOHvooHHHvnn\012OOK/Che-cy OOHHK/Che-cy HH\012OOKOOOHHKOHH\012OOKUOOHHKUHH\012OOKaooHHKann\012OOK/be-cy ooHHK/be-cy nn\012OOK/che-cy ooHHK/che-cy nn\012OOKgooHHKgnn\012OOK-OOHHK-HH\012OOKoooHHKonn\012OOK'OOHHK'HH\012OOKsooHHKsnn\012OOKtooHHKtnn\012OOK/te-cy ooHHK/te-cy nn\012OOKuooHHKunn\012OOKvooHHKvnn\012OOKyooHHKynn\012OO/Ka-cy/be-cy ooHH/Ka-cy/be-cy nn\012OO/Ka-cy/che-cy ooHH/Ka-cy/che-cy nn\012OO/Ka-cy/el-cy ooHH/Ka-cy/el-cy nn\012OO/Ka-cy oooHH/Ka-cy onn\012OO/Ka-cy/te-cy ooHH/Ka-cy/te-cy nn\012OO/Ka-cy yooHH/Ka-cy ynn\012OOLOOOHHLOHH\012OOLTOOHHLTHH\012OOLVOOHHLVHH\012OOLYOOHHLYHH\012OOL/quoteleft OOHHL/quoteleft HH\012OOL'OOHHL'HH\012OOLvooHHLvnn\012OOLyooHHLynn\012OOOAOOHHOAHH\012OOO/De-cy OOHHO/De-cy HH\012OOO/El-cy OOHHO/El-cy HH\012OOOJOOHHOJHH\012OOOOOOHHOOHH\012OOOTOOHHOTHH\012OOO/U-cy OOHHO/U-cy HH\012OOOVOOHHOVHH\012OOOXOOHHOXHH\012OOOYOOHHOYHH\012OOO/Ze-cy OOHHO/Ze-cy HH\012OOO/de-cy ooHHO/de-cy nn\012OOO/el-cy ooHHO/el-cy nn\012OOO/ia-cy ooHHO/ia-cy nn\012OOO.OOHHO.HH\012OOO'OOHHO'HH\012OOPAOOHHPAHH\012OOP/De-cy OOHHP/De-cy HH\012OOP/El-cy OOHHP/El-cy HH\012OOPJOOHHPJHH\012OOPXOOHHPXHH\012OOPaooHHPann\012OOP/de-cy ooHHP/de-cy nn\012OOP/el-cy ooHHP/el-cy nn\012OOPgooHHPgnn\012OOP/ia-cy ooHHP/ia-cy nn\012OOPoooHHPonn\012OOP.OOHHP.HH\012OOPsooHHPsnn\012OOPzooHHPznn\012OOROOOHHROHH\012OORUOOHHRUHH\012OORVOOHHRVHH\012OORYOOHHRYHH\012OORvooHHRvnn\012OORyooHHRynn\012OOSVOOHHSVHH\012OOSYOOHHSYHH\012OOS/che-cy ooHHS/che-cy nn\012OOS/el-cy ooHHS/el-cy nn\012OOSvooHHSvnn\012OOSyooHHSynn\012OO/Softsign-cy/Che-cy OOHH/Softsign-cy/Che-cy HH\012OO/Softsign-cy/De-cy OOHH/Softsign-cy/De-cy HH\012OO/Softsign-cy TOOHH/Softsign-cy THH\012OO/Softsign-cy/U-cy OOHH/Softsign-cy/U-cy HH\012OO/Softsign-cy XOOHH/Softsign-cy XHH\012OO/Softsign-cy 'OOHH/Softsign-cy 'HH\012OOTAOOHHTAHH\012OOT/De-cy OOHHT/De-cy HH\012OOT/El-cy OOHHT/El-cy HH\012OOTJOOHHTJHH\012OOTOOOHHTOHH\012OOTaooHHTann\012OOT/be-cy ooHHT/be-cy nn\012OOT/che-cy ooHHT/che-cy nn\012OOT:OOHHT:HH\012OOT/de-cy ooHHT/de-cy nn\012OOT/el-cy ooHHT/el-cy nn\012OOT/ereversed-cy ooHHT/ereversed-cy nn\012OOTfooHHTfnn\012OOTgooHHTgnn\012OOT/guilsinglright OOHHT/guilsinglright HH\012OOT-OOHHT-HH\012OOT/ia-cy ooHHT/ia-cy nn\012OOTnooHHTnnn\012OOToooHHTonn\012OOT.OOHHT.HH\012OOTsooHHTsnn\012OOTtooHHTtnn\012OOT/te-cy ooHHT/te-cy nn\012OOTuooHHTunn\012OOTvooHHTvnn\012OOTxooHHTxnn\012OOTyooHHTynn\012OOTzooHHTznn\012OOT/ze-cy ooHHT/ze-cy nn\012OOT/zhe-cy ooHHT/zhe-cy nn\012OO/Tse-cy/che-cy ooHH/Tse-cy/che-cy nn\012OO/Tse-cy -OOHH/Tse-cy -HH\012OO/Tse-cy oooHH/Tse-cy onn\012OO/Tse-cy/te-cy ooHH/Tse-cy/te-cy nn\012OO/Tse-cy vooHH/Tse-cy vnn\012OOUAOOHHUAHH\012OOUJOOHHUJHH\012OOUOOOHHUOHH\012OOUaooHHUann\012OOUfooHHUfnn\012OOUgooHHUgnn\012OOUhooHHUhnn\012OOUnooHHUnnn\012OOUoooHHUonn\012OOU.OOHHU.HH\012OOUsooHHUsnn\012OOUtooHHUtnn\012OOUuooHHUunn\012OOUvooHHUvnn\012OOUyooHHUynn\012OOUzooHHUznn\012OO/U-cy AOOHH/U-cy AHH\012OO/U-cy/De-cy OOHH/U-cy/De-cy HH\012OO/U-cy/El-cy OOHH/U-cy/El-cy HH\012OO/U-cy/Ia-cy OOHH/U-cy/Ia-cy HH\012OO/U-cy OOOHH/U-cy OHH\012OO/U-cy aooHH/U-cy ann\012OO/U-cy/be-cy ooHH/U-cy/be-cy nn\012OO/U-cy/che-cy ooHH/U-cy/che-cy nn\012OO/U-cy :OOHH/U-cy :HH\012OO/U-cy/de-cy ooHH/U-cy/de-cy nn\012OO/U-cy/el-cy ooHH/U-cy/el-cy nn\012OO/U-cy/ereversed-cy ooHH/U-cy/ereversed-cy nn\012OO/U-cy/guilsinglright OOHH/U-cy/guilsinglright HH\012OO/U-cy -OOHH/U-cy -HH\012OO/U-cy/ia-cy ooHH/U-cy/ia-cy nn\012OO/U-cy nooHH/U-cy nnn\012OO/U-cy oooHH/U-cy onn\012OO/U-cy .OOHH/U-cy .HH\012OO/U-cy sooHH/U-cy snn\012OO/U-cy/te-cy ooHH/U-cy/te-cy nn\012OO/U-cy uooHH/U-cy unn\012OO/U-cy xooHH/U-cy xnn\012OO/U-cy yooHH/U-cy ynn\012OO/U-cy/ze-cy ooHH/U-cy/ze-cy nn\012OO/U-cy/zhe-cy ooHH/U-cy/zhe-cy nn\012OOVAOOHHVAHH\012OOV/De-cy OOHHV/De-cy HH\012OOV/El-cy OOHHV/El-cy HH\012OOVJOOHHVJHH\012OOVOOOHHVOHH\012OOV/Ze-cy OOHHV/Ze-cy HH\012OOVaooHHVann\012OOV/be-cy ooHHV/be-cy nn\012OOV/che-cy ooHHV/che-cy nn\012OOV:OOHHV:HH\012OOV/de-cy ooHHV/de-cy nn\012OOV/el-cy ooHHV/el-cy nn\012OOV/ereversed-cy ooHHV/ereversed-cy nn\012OOVfooHHVfnn\012OOVgooHHVgnn\012OOV-OOHHV-HH\012OOV/ia-cy ooHHV/ia-cy nn\012OOVnooHHVnnn\012OOVoooHHVonn\012OOV.OOHHV.HH\012OOVsooHHVsnn\012OOV/te-cy ooHHV/te-cy nn\012OOVuooHHVunn\012OOVvooHHVvnn\012OOVxooHHVxnn\012OOVyooHHVynn\012OOVzooHHVznn\012OOV/ze-cy ooHHV/ze-cy nn\012OOXOOOHHXOHH\012OOXaooHHXann\012OOX/be-cy ooHHX/be-cy nn\012OOX/che-cy ooHHX/che-cy nn\012OOXgooHHXgnn\012OOX-OOHHX-HH\012OOXoooHHXonn\012OOXsooHHXsnn\012OOXtooHHXtnn\012OOX/te-cy ooHHX/te-cy nn\012OOXuooHHXunn\012OOXvooHHXvnn\012OOXyooHHXynn\012OOYAOOHHYAHH\012OOYJOOHHYJHH\012OOYOOOHHYOHH\012OOYaooHHYann\012OOY:OOHHY:HH\012OOYfooHHYfnn\012OOY4OOHHY4HH\012OOYgooHHYgnn\012OOY-OOHHY-HH\012OOYnooHHYnnn\012OOYoooHHYonn\012OOY.OOHHY.HH\012OOYsooHHYsnn\012OOYtooHHYtnn\012OOYuooHHYunn\012OOYvooHHYvnn\012OOYxooHHYxnn\012OOYyooHHYynn\012OOYzooHHYznn\012OOZ-OOHHZ-HH\012OOZvooHHZvnn\012OOZyooHHZynn\012ooa/che-cy oonna/che-cy nn\012ooavoonnavnn\012ooayoonnaynn\012OO*AOOHH*AHH\012ooc/U-cy OOnnc/U-cy HH\012oocaoonncann\012ooc/de-cy oonnc/de-cy nn\012ooc/el-cy oonnc/el-cy nn\012ooeTOOnneTHH\012ooe/U-cy OOnne/U-cy HH\012ooe/de-cy oonne/de-cy nn\012ooe/el-cy oonne/el-cy nn\012ooe/quoteleft OOnne/quoteleft HH\012ooe'OOnne'HH\012ooevoonnevnn\012ooexoonnexnn\012ooeyoonneynn\012oofgoonnfgnn\012oofooonnfonn\012oof.OOnnf.HH\012oofsoonnfsnn\012oogooonngonn\012oo/ge-cy/De-cy OOnn/ge-cy/De-cy HH\012oo/ge-cy TOOnn/ge-cy THH\012oo/ge-cy/U-cy OOnn/ge-cy/U-cy HH\012oo/ge-cy XOOnn/ge-cy XHH\012oo/ge-cy/de-cy oonn/ge-cy/de-cy nn\012oo/ge-cy/el-cy oonn/ge-cy/el-cy nn\012oo/ge-cy/ia-cy oonn/ge-cy/ia-cy nn\012oo/ge-cy .OOnn/ge-cy .HH\012OO/guilsinglleft TOOHH/guilsinglleft THH\012OO/guilsinglleft/U-cy OOHH/guilsinglleft/U-cy HH\012OO-AOOHH-AHH\012OO-/Che-cy OOHH-/Che-cy HH\012OO-/De-cy OOHH-/De-cy HH\012OO-/El-cy OOHH-/El-cy HH\012OO-TOOHH-THH\012OO-/U-cy OOHH-/U-cy HH\012OO-VOOHH-VHH\012OO-XOOHH-XHH\012OO-ZOOHH-ZHH\012OO-/de-cy ooHH-/de-cy nn\012OO-/el-cy ooHH-/el-cy nn\012OO-7OOHH-7HH\012OO-2OOHH-2HH\012OO-xooHH-xnn\012ookTOOnnkTHH\012ook/U-cy OOnnk/U-cy HH\012ookaoonnkann\012ook/be-cy oonnk/be-cy nn\012ook/che-cy oonnk/che-cy nn\012ookooonnkonn\012ookvoonnkvnn\012oo/ka-cy/el-cy oonn/ka-cy/el-cy nn\012oonTOOnnnTHH\012oon/U-cy OOnnn/U-cy HH\012oon/quoteleft OOnnn/quoteleft HH\012oon'OOnnn'HH\012oonvoonnnvnn\012oonyoonnnynn\012OO9.OOHH9.HH\012OO9'OOHH9'HH\012ooo/De-cy OOnno/De-cy HH\012oooTOOnnoTHH\012ooo/U-cy OOnno/U-cy HH\012oooXOOnnoXHH\012ooo/che-cy oonno/che-cy nn\012ooo/de-cy oonno/de-cy nn\012ooo/el-cy oonno/el-cy nn\012ooo/ia-cy oonno/ia-cy nn\012ooo/quoteleft OOnno/quoteleft HH\012ooo'OOnno'HH\012ooo7OOnno7HH\012ooovoonnovnn\012oooxoonnoxnn\012oooyoonnoynn\012ooozoonnoznn\012oop/che-cy oonnp/che-cy nn\012oop/de-cy oonnp/de-cy nn\012oop/el-cy oonnp/el-cy nn\012oop/ia-cy oonnp/ia-cy nn\012oopxoonnpxnn\012oopyoonnpynn\012OO.OOOHH.OHH\012OO.TOOHH.THH\012OO./che-cy ooHH./che-cy nn\012OO.9OOHH.9HH\012OO.0OOHH.0HH\012OO\U00BFJOOHH\U00BFJHH\012OO/quoteleft AOOHH/quoteleft AHH\012OO/quoteleft/De-cy OOHH/quoteleft/De-cy HH\012OO/quoteleft/El-cy OOHH/quoteleft/El-cy HH\012OO/quoteleft sooHH/quoteleft snn\012OO'AOOHH'AHH\012OO'/De-cy OOHH'/De-cy HH\012OO'/El-cy OOHH'/El-cy HH\012OO'OOOHH'OHH\012OO'aooHH'ann\012OO'/che-cy ooHH'/che-cy nn\012OO'/de-cy ooHH'/de-cy nn\012OO'/el-cy ooHH'/el-cy nn\012OO'/ereversed-cy ooHH'/ereversed-cy nn\012OO'/ia-cy ooHH'/ia-cy nn\012OO'nooHH'nnn\012OO'oooHH'onn\012OO'sooHH'snn\012OO'0OOHH'0HH\012oorooonnronn\012oor.OOnnr.HH\012oosTOOnnsTHH\012oos/U-cy OOnns/U-cy HH\012OO74OOHH74HH\012OO7-OOHH7-HH\012OO7oooHH7onn\012OO7.OOHH7.HH\012oo/softsign-cy/El-cy OOnn/softsign-cy/El-cy HH\012oo/softsign-cy OOOnn/softsign-cy OHH\012oo/softsign-cy TOOnn/softsign-cy THH\012oo/softsign-cy/U-cy OOnn/softsign-cy/U-cy HH\012oo/softsign-cy/che-cy oonn/softsign-cy nn\012oo/softsign-cy/quoteleft OOnn/softsign-cy/quoteleft HH\012oo/softsign-cy 'OOnn/softsign-cy 'HH\012oo/softsign-cy/te-cy oonn/softsign-cy/te-cy nn\012oo/softsign-cy voonn/softsign-cy vnn\012oo/softsign-cy xoonn/softsign-cy xnn\012oo/softsign-cy yoonn/softsign-cy ynn\012ootgoonntgnn\012ootooonntonn\012oot'OOnnt'HH\012ootsoonntsnn\012oo/te-cy AOOnn/te-cy AHH\012oo/te-cy/U-cy OOnn/te-cy/U-cy HH\012oo/te-cy XOOnn/te-cy XHH\012oo/te-cy/de-cy oonn/te-cy/de-cy nn\012oo/te-cy/el-cy oonn/te-cy/el-cy nn\012oo/te-cy/ia-cy oonn/te-cy/ia-cy nn\012oo/te-cy .OOnn/te-cy .HH\012oo/tse-cy TOOnn/tse-cy THH\012oo/tse-cy/U-cy OOnn/tse-cy/U-cy HH\012oouTOOnnuTHH\012oou/U-cy OOnnu/U-cy HH\012oou'OOnnu'HH\012oov/De-cy OOnnv/De-cy HH\012oovTOOnnvTHH\012oov/U-cy OOnnv/U-cy HH\012oovXOOnnvXHH\012oovaoonnvann\012oov/de-cy oonnv/de-cy nn\012oov/el-cy oonnv/el-cy nn\012oovgoonnvgnn\012oovooonnvonn\012oov.OOnnv.HH\012oov'OOnnv'HH\012oovsoonnvsnn\012oo/ve-cy TOOnn/ve-cy THH\012oo/ve-cy/U-cy OOnn/ve-cy/U-cy HH\012oo/ve-cy/che-cy oonn/ve-cy/che-cy nn\012oo/ve-cy/de-cy oonn/ve-cy/de-cy nn\012oo/ve-cy/el-cy oonn/ve-cy/el-cy nn\012oo/ve-cy 'OOnn/ve-cy 'HH\012oo/ve-cy voonn/ve-cy vnn\012oo/ve-cy xoonn/ve-cy xnn\012oo/ve-cy yoonn/ve-cy ynn\012ooxTOOnnxTHH\012oox/U-cy OOnnx/U-cy HH\012ooxaoonnxann\012oox/be-cy oonnx/be-cy nn\012oox/che-cy oonnx/che-cy nn\012oox/ereversed-cy oonnx/ereversed-cy nn\012ooxgoonnxgnn\012oox-OOnnx-HH\012ooxooonnxonn\012ooxsoonnxsnn\012oox/ze-cy oonnx/ze-cy nn\012ooyTOOnnyTHH\012ooy/U-cy OOnny/U-cy HH\012ooyXOOnnyXHH\012ooyaoonnyann\012ooy/de-cy oonny/de-cy nn\012ooy/el-cy oonny/el-cy nn\012ooygoonnygnn\012ooy/ia-cy oonny/ia-cy nn\012ooyooonnyonn\012ooy.OOnny.HH\012ooysoonnysnn\012oozooonnzonn\012OO0.OOHH0.HH\012OO0'OOHH0'HH\012OO07OOHH07HH\012OO})OOHH})HH\012OO)]OOHH)]HH\012OO)}OOHH)}HH\012OO))OOHH))HH\012OO))OOHH))HH"
 );
 classes = (
 {
@@ -2013,7 +2013,7 @@ nodes = (
 );
 }
 );
-width = 606;
+width = 596;
 },
 {
 associatedMasterId = "6E1B38A8-44EA-440A-BD04-FE41D2B0BC62";
@@ -12122,11 +12122,11 @@ nodes = (
 "663 589 LINE",
 "397 589 LINE",
 "397 477 LINE",
-"455 477 LINE",
+"465 477 LINE",
 "383 257 LINE",
 "347 130 LINE",
 "312 256 LINE",
-"234 477 LINE",
+"224 477 LINE",
 "287 477 LINE",
 "287 589 LINE",
 "7 589 LINE"
@@ -17240,13 +17240,13 @@ paths = (
 {
 closed = 1;
 nodes = (
-"126 454 LINE",
-"42 454 LINE",
-"42 353 LINE",
-"126 353 LINE",
-"126 101 LINE",
-"42 101 LINE",
-"42 0 LINE",
+"131 454 LINE",
+"47 454 LINE",
+"47 353 LINE",
+"131 353 LINE",
+"131 101 LINE",
+"47 101 LINE",
+"47 0 LINE",
 "343 0 LINE",
 "343 101 LINE",
 "253 101 LINE",
@@ -17266,8 +17266,8 @@ nodes = (
 "379 683 OFFCURVE",
 "320 683 CURVE SMOOTH",
 "193 683 OFFCURVE",
-"126 617 OFFCURVE",
-"126 490 CURVE SMOOTH"
+"131 617 OFFCURVE",
+"131 490 CURVE SMOOTH"
 );
 }
 );
@@ -24071,13 +24071,13 @@ nodes = (
 "354 454 LINE",
 "234 454 LINE",
 "234 574 LINE",
-"108 535 LINE",
-"108 454 LINE",
-"25 454 LINE",
-"25 353 LINE",
-"108 353 LINE",
-"108 167 LINE SMOOTH",
-"108 41 OFFCURVE",
+"112 535 LINE",
+"112 454 LINE",
+"29 454 LINE",
+"29 353 LINE",
+"112 353 LINE",
+"112 167 LINE SMOOTH",
+"112 41 OFFCURVE",
 "174 -20 OFFCURVE",
 "281 -20 CURVE SMOOTH"
 );
@@ -27293,39 +27293,39 @@ paths = (
 {
 closed = 1;
 nodes = (
-"527 442 LINE",
-"496 589 LINE",
-"60 589 LINE",
-"60 520 LINE",
-"155 520 LINE",
-"155 69 LINE",
-"60 69 LINE",
-"60 0 LINE",
-"375 0 LINE SMOOTH",
-"500 0 OFFCURVE",
-"552 86 OFFCURVE",
-"552 184 CURVE SMOOTH",
-"552 311 OFFCURVE",
-"452 339 OFFCURVE",
-"355 336 CURVE SMOOTH",
-"233 332 LINE",
-"233 520 LINE",
-"432 520 LINE",
-"454 426 LINE"
+"519 442 LINE",
+"488 589 LINE",
+"52 589 LINE",
+"52 520 LINE",
+"147 520 LINE",
+"147 69 LINE",
+"52 69 LINE",
+"52 0 LINE",
+"367 0 LINE SMOOTH",
+"492 0 OFFCURVE",
+"544 86 OFFCURVE",
+"544 184 CURVE SMOOTH",
+"544 311 OFFCURVE",
+"444 339 OFFCURVE",
+"347 336 CURVE SMOOTH",
+"225 332 LINE",
+"225 520 LINE",
+"424 520 LINE",
+"446 426 LINE"
 );
 },
 {
 closed = 1;
 nodes = (
-"359 267 LINE",
-"431 269 OFFCURVE",
-"467 247 OFFCURVE",
-"467 184 CURVE SMOOTH",
-"467 113 OFFCURVE",
-"424 70 OFFCURVE",
-"351 70 CURVE SMOOTH",
-"232 70 LINE",
-"233 263 LINE"
+"351 267 LINE",
+"423 269 OFFCURVE",
+"459 247 OFFCURVE",
+"459 184 CURVE SMOOTH",
+"459 113 OFFCURVE",
+"416 70 OFFCURVE",
+"343 70 CURVE SMOOTH",
+"224 70 LINE",
+"225 263 LINE"
 );
 }
 );
@@ -27335,46 +27335,47 @@ paths = (
 {
 closed = 1;
 nodes = (
-"261 355 LINE",
-"261 477 LINE",
-"421 477 LINE",
-"447 400 LINE",
-"553 436 LINE",
-"501 589 LINE",
-"51 589 LINE",
-"51 477 LINE",
-"132 477 LINE",
-"132 112 LINE",
-"51 112 LINE",
-"51 0 LINE",
-"378 0 LINE SMOOTH",
-"509 0 OFFCURVE",
-"579 62 OFFCURVE",
-"579 176 CURVE SMOOTH",
-"579 293 OFFCURVE",
-"509 355 OFFCURVE",
-"378 355 CURVE SMOOTH"
+"253 355 LINE",
+"253 477 LINE",
+"413 477 LINE",
+"439 400 LINE",
+"545 436 LINE",
+"493 589 LINE",
+"43 589 LINE",
+"43 477 LINE",
+"124 477 LINE",
+"124 112 LINE",
+"43 112 LINE",
+"43 0 LINE",
+"370 0 LINE SMOOTH",
+"501 0 OFFCURVE",
+"571 62 OFFCURVE",
+"571 176 CURVE SMOOTH",
+"571 293 OFFCURVE",
+"501 355 OFFCURVE",
+"370 355 CURVE SMOOTH"
 );
 },
 {
 closed = 1;
 nodes = (
-"261 112 LINE",
-"261 244 LINE",
-"361 244 LINE SMOOTH",
-"416 244 OFFCURVE",
-"446 221 OFFCURVE",
-"446 179 CURVE SMOOTH",
-"446 135 OFFCURVE",
-"414 112 OFFCURVE",
-"355 112 CURVE SMOOTH"
+"253 112 LINE",
+"253 244 LINE",
+"353 244 LINE SMOOTH",
+"408 244 OFFCURVE",
+"438 221 OFFCURVE",
+"438 179 CURVE SMOOTH",
+"438 135 OFFCURVE",
+"406 112 OFFCURVE",
+"347 112 CURVE SMOOTH"
 );
 }
 );
-width = 624;
+width = 596;
 }
 );
 leftKerningGroup = I;
+leftMetricsKey = H;
 rightKerningGroup = "Be-cy";
 unicode = 0411;
 },
@@ -32756,49 +32757,10 @@ width = 623;
 },
 {
 background = {
-paths = (
+components = (
 {
-closed = 1;
-nodes = (
-"593 69 LINE",
-"500 69 LINE",
-"500 520 LINE",
-"593 520 LINE",
-"593 589 LINE",
-"330 589 LINE SMOOTH",
-"167 589 OFFCURVE",
-"115 527 OFFCURVE",
-"115 405 CURVE SMOOTH",
-"115 322 OFFCURVE",
-"163 265 OFFCURVE",
-"235 242 CURVE",
-"150 69 LINE",
-"54 69 LINE",
-"54 0 LINE",
-"200 0 LINE",
-"201 5 LINE",
-"202 5 LINE",
-"312 231 LINE",
-"422 231 LINE",
-"422 69 LINE",
-"358 69 LINE",
-"358 0 LINE",
-"593 0 LINE"
-);
-},
-{
-closed = 1;
-nodes = (
-"421 520 LINE",
-"421 301 LINE",
-"329 301 LINE SMOOTH",
-"276 301 OFFCURVE",
-"200 317 OFFCURVE",
-"200 404 CURVE SMOOTH",
-"200 505 OFFCURVE",
-"248 520 OFFCURVE",
-"331 520 CURVE SMOOTH"
-);
+name = B;
+transform = "{-1, 0, 0, -1, 642, 564}";
 }
 );
 };
@@ -32820,13 +32782,13 @@ nodes = (
 "593 477 LINE",
 "593 589 LINE",
 "333 589 LINE SMOOTH",
-"174 589 OFFCURVE",
-"89 522 OFFCURVE",
-"89 398 CURVE SMOOTH",
-"89 313 OFFCURVE",
-"130 254 OFFCURVE",
-"206 231 CURVE",
-"143 112 LINE",
+"161 589 OFFCURVE",
+"71 514 OFFCURVE",
+"71 394 CURVE SMOOTH",
+"71 316 OFFCURVE",
+"128 259 OFFCURVE",
+"203 231 CURVE",
+"131 112 LINE",
 "42 112 LINE",
 "42 0 LINE"
 );
@@ -32834,15 +32796,15 @@ nodes = (
 {
 closed = 1;
 nodes = (
-"255 302 OFFCURVE",
-"213 334 OFFCURVE",
-"213 396 CURVE SMOOTH",
-"213 449 OFFCURVE",
-"255 477 OFFCURVE",
+"248 297 OFFCURVE",
+"203 330 OFFCURVE",
+"203 386 CURVE SMOOTH",
+"203 446 OFFCURVE",
+"248 477 OFFCURVE",
 "334 477 CURVE SMOOTH",
 "382 477 LINE",
-"382 302 LINE",
-"334 302 LINE"
+"382 297 LINE",
+"334 297 LINE SMOOTH"
 );
 }
 );
@@ -41944,7 +41906,7 @@ nodes = (
 );
 }
 );
-width = 522;
+width = 514;
 },
 {
 anchors = (
@@ -42068,7 +42030,7 @@ nodes = (
 );
 }
 );
-width = 584;
+width = 570;
 }
 );
 leftKerningGroup = n;
@@ -76183,7 +76145,7 @@ zerosuperior = {
 };
 "6E1B38A8-44EA-440A-BD04-FE41D2B0BC62" = {
 "@MMK_L_A" = {
-"@MMK_R_Che-cy" = -100;
+"@MMK_R_Che-cy" = -110;
 "@MMK_R_O" = -40;
 "@MMK_R_T" = -50;
 "@MMK_R_U" = -40;
@@ -76191,49 +76153,63 @@ zerosuperior = {
 "@MMK_R_V" = -100;
 "@MMK_R_Y" = -90;
 "@MMK_R_Ze-cy" = -10;
-"@MMK_R_asterisk" = -100;
+"@MMK_R_asterisk" = -90;
 "@MMK_R_backslash" = -30;
 "@MMK_R_be-cy" = -30;
 "@MMK_R_che-cy" = -90;
 "@MMK_R_hyphen" = -20;
 "@MMK_R_quoteleft" = -90;
 "@MMK_R_quoteright" = -70;
-"@MMK_R_quotesingle" = -130;
-"@MMK_R_t" = -40;
+"@MMK_R_quotesingle" = -140;
+"@MMK_R_t" = -50;
 "@MMK_R_te-cy" = -40;
 "@MMK_R_u" = -30;
 "@MMK_R_v" = -50;
-"@MMK_R_y" = -50;
+"@MMK_R_y" = -70;
+"@MMK_R_g" = -10;
 };
 "@MMK_L_B" = {
 "@MMK_R_A" = -30;
 "@MMK_R_El-cy" = -30;
 "@MMK_R_I" = -10;
 "@MMK_R_O" = -20;
-"@MMK_R_U-cy" = -30;
+"@MMK_R_U-cy" = -20;
 "@MMK_R_X" = -20;
 "@MMK_R_Y" = -10;
 "@MMK_R_a" = -20;
-"@MMK_R_de-cy" = -30;
-"@MMK_R_el-cy" = -20;
+"@MMK_R_de-cy" = -20;
+"@MMK_R_el-cy" = -10;
 "@MMK_R_ia-cy" = -10;
 "@MMK_R_quotesingle" = -30;
+"@MMK_R_che-cy" = -20;
+"@MMK_R_Che-cy" = -10;
+"@MMK_R_De-cy" = -10;
 };
 "@MMK_L_Be-cy" = {
-"@MMK_R_De-cy" = -20;
+"@MMK_R_De-cy" = -10;
 "@MMK_R_Ia-cy" = -20;
+"@MMK_R_Che-cy" = -30;
+"@MMK_R_de-cy" = -20;
+"@MMK_R_el-cy" = -10;
+"@MMK_R_y" = -10;
 };
 "@MMK_L_C" = {
 "@MMK_R_Y" = -20;
+"@MMK_R_che-cy" = -30;
+"@MMK_R_el-cy" = -20;
+"@MMK_R_o" = -10;
+"@MMK_R_u" = -10;
 };
 "@MMK_L_D" = {
 "@MMK_R_A" = -40;
 "@MMK_R_V" = -30;
-"@MMK_R_Y" = -40;
+"@MMK_R_Y" = -50;
 "@MMK_R_period" = -60;
+"@MMK_R_X" = -30;
+"@MMK_R_J" = -30;
 };
 "@MMK_L_F" = {
-"@MMK_R_A" = -130;
+"@MMK_R_A" = -90;
 "@MMK_R_a" = -30;
 "@MMK_R_ampersand" = -50;
 "@MMK_R_b" = 20;
@@ -76246,10 +76222,11 @@ zerosuperior = {
 "@MMK_R_s" = -20;
 "@MMK_R_six" = -10;
 "@MMK_R_z" = -20;
+"@MMK_R_J" = -90;
 };
 "@MMK_L_Ge-cy" = {
-"@MMK_R_A" = -80;
-"@MMK_R_De-cy" = -20;
+"@MMK_R_A" = -60;
+"@MMK_R_De-cy" = -10;
 "@MMK_R_El-cy" = -50;
 "@MMK_R_Ia-cy" = -20;
 "@MMK_R_U-cy" = -10;
@@ -76262,20 +76239,29 @@ zerosuperior = {
 "@MMK_R_ia-cy" = -40;
 "@MMK_R_n" = -20;
 "@MMK_R_o" = -40;
-"@MMK_R_s" = -30;
+"@MMK_R_s" = -20;
+"@MMK_R_guilsinglright" = 20;
+"@MMK_R_hyphen" = -80;
+"@MMK_R_period" = -120;
+"@MMK_R_te-cy" = 10;
+"@MMK_R_v" = 20;
+"@MMK_R_ze-cy" = -10;
+"@MMK_R_x" = -10;
 };
 "@MMK_L_I" = {
 "@MMK_R_b" = 40;
-"@MMK_R_che-cy" = -40;
+"@MMK_R_che-cy" = -50;
 "@MMK_R_g" = -20;
 "@MMK_R_parenright" = 20;
 "@MMK_R_quoteleft" = -10;
 "@MMK_R_quotesingle" = -10;
 "@MMK_R_y" = -10;
 "@MMK_R_ze-cy" = -10;
+"@MMK_R_o" = -10;
+"@MMK_R_v" = -10;
 };
 "@MMK_L_K" = {
-"@MMK_R_Che-cy" = -20;
+"@MMK_R_Che-cy" = -40;
 "@MMK_R_O" = -50;
 "@MMK_R_S" = -30;
 "@MMK_R_T" = -40;
@@ -76283,28 +76269,29 @@ zerosuperior = {
 "@MMK_R_V" = -20;
 "@MMK_R_Y" = -10;
 "@MMK_R_Ze-cy" = -30;
-"@MMK_R_a" = -30;
+"@MMK_R_a" = -20;
 "@MMK_R_ampersand" = -30;
 "@MMK_R_be-cy" = -60;
-"@MMK_R_che-cy" = -80;
+"@MMK_R_che-cy" = -90;
 "@MMK_R_el-cy" = -10;
-"@MMK_R_g" = -30;
+"@MMK_R_g" = -50;
 "@MMK_R_hyphen" = -90;
 "@MMK_R_n" = -20;
 "@MMK_R_o" = -50;
-"@MMK_R_quotesingle" = -30;
+"@MMK_R_quotesingle" = -50;
 "@MMK_R_t" = -50;
 "@MMK_R_te-cy" = -50;
 "@MMK_R_u" = -50;
 "@MMK_R_v" = -70;
-"@MMK_R_y" = -50;
+"@MMK_R_y" = -60;
+"@MMK_R_s" = -20;
 };
 "@MMK_L_L" = {
 "@MMK_R_O" = -10;
-"@MMK_R_T" = -80;
+"@MMK_R_T" = -70;
 "@MMK_R_U" = -40;
 "@MMK_R_V" = -100;
-"@MMK_R_Y" = -90;
+"@MMK_R_Y" = -100;
 "@MMK_R_asterisk" = -90;
 "@MMK_R_backslash" = -50;
 "@MMK_R_guilsinglleft" = 10;
@@ -76312,17 +76299,17 @@ zerosuperior = {
 "@MMK_R_jdotless" = -20;
 "@MMK_R_quoteleft" = -120;
 "@MMK_R_quoteright" = -90;
-"@MMK_R_quotesingle" = -120;
+"@MMK_R_quotesingle" = -140;
 "@MMK_R_seven" = -80;
 "@MMK_R_t" = -20;
 "@MMK_R_u" = -20;
 "@MMK_R_v" = -50;
-"@MMK_R_y" = -60;
+"@MMK_R_y" = -80;
 periodcentered.loclCAT = -300;
 };
 "@MMK_L_O" = {
 "@MMK_R_A" = -50;
-"@MMK_R_De-cy" = -40;
+"@MMK_R_De-cy" = -30;
 "@MMK_R_El-cy" = -40;
 "@MMK_R_O" = -30;
 "@MMK_R_U-cy" = -30;
@@ -76331,7 +76318,7 @@ periodcentered.loclCAT = -300;
 "@MMK_R_Y" = -50;
 "@MMK_R_Ze-cy" = -10;
 "@MMK_R_ampersand" = -10;
-"@MMK_R_asterisk" = 10;
+"@MMK_R_asterisk" = -10;
 "@MMK_R_at" = -20;
 "@MMK_R_backslash" = -20;
 "@MMK_R_de-cy" = -20;
@@ -76346,14 +76333,16 @@ periodcentered.loclCAT = -300;
 "@MMK_R_period" = -30;
 "@MMK_R_questiondown" = -60;
 "@MMK_R_quoteright" = 10;
-"@MMK_R_quotesingle" = -30;
+"@MMK_R_quotesingle" = -40;
 "@MMK_R_seven" = -20;
 "@MMK_R_three" = -30;
 "@MMK_R_x" = -10;
+"@MMK_R_J" = -20;
+"@MMK_R_guilsinglleft" = 20;
 };
 "@MMK_L_P" = {
-"@MMK_R_A" = -80;
-"@MMK_R_De-cy" = -20;
+"@MMK_R_A" = -60;
+"@MMK_R_De-cy" = -40;
 "@MMK_R_El-cy" = -50;
 "@MMK_R_I" = -20;
 "@MMK_R_X" = -20;
@@ -76364,11 +76353,16 @@ periodcentered.loclCAT = -300;
 "@MMK_R_parenright" = -10;
 "@MMK_R_period" = -90;
 "@MMK_R_quoteleft" = 30;
+"@MMK_R_J" = -30;
+"@MMK_R_de-cy" = -30;
+"@MMK_R_el-cy" = -40;
+"@MMK_R_ia-cy" = -30;
+"@MMK_R_o" = -10;
 };
 "@MMK_L_R" = {
 "@MMK_R_O" = -20;
 "@MMK_R_T" = -20;
-"@MMK_R_U" = -30;
+"@MMK_R_U" = -40;
 "@MMK_R_V" = -40;
 "@MMK_R_Y" = -50;
 "@MMK_R_a" = -10;
@@ -76408,6 +76402,8 @@ periodcentered.loclCAT = -300;
 "@MMK_R_x" = -30;
 "@MMK_R_y" = -10;
 "@MMK_R_z" = -10;
+"@MMK_R_che-cy" = -20;
+"@MMK_R_el-cy" = -20;
 };
 "@MMK_L_Softsign-cy" = {
 "@MMK_R_A" = -20;
@@ -76418,24 +76414,26 @@ periodcentered.loclCAT = -300;
 "@MMK_R_X" = -50;
 "@MMK_R_Y" = -110;
 "@MMK_R_Ze-cy" = -20;
+"@MMK_R_Che-cy" = -100;
+"@MMK_R_quotesingle" = -90;
 };
 "@MMK_L_T" = {
-"@MMK_R_A" = -80;
+"@MMK_R_A" = -70;
 "@MMK_R_De-cy" = -30;
 "@MMK_R_El-cy" = -50;
-"@MMK_R_J" = -70;
+"@MMK_R_J" = -60;
 "@MMK_R_O" = -20;
 "@MMK_R_Ze-cy" = -10;
 "@MMK_R_a" = -40;
 "@MMK_R_ampersand" = -50;
 "@MMK_R_at" = -60;
 "@MMK_R_b" = 50;
-"@MMK_R_be-cy" = -20;
+"@MMK_R_be-cy" = -30;
 "@MMK_R_che-cy" = -20;
 "@MMK_R_colon" = -10;
 "@MMK_R_de-cy" = -50;
 "@MMK_R_el-cy" = -60;
-"@MMK_R_ereversed-cy" = -20;
+"@MMK_R_ereversed-cy" = -30;
 "@MMK_R_four" = -10;
 "@MMK_R_g" = -30;
 "@MMK_R_guilsinglleft" = -30;
@@ -76445,35 +76443,38 @@ periodcentered.loclCAT = -300;
 "@MMK_R_n" = -20;
 "@MMK_R_o" = -60;
 "@MMK_R_parenright" = 30;
-"@MMK_R_period" = -90;
+"@MMK_R_period" = -110;
 "@MMK_R_s" = -30;
 "@MMK_R_six" = -10;
 "@MMK_R_y" = -10;
 "@MMK_R_z" = -10;
 "@MMK_R_ze-cy" = -30;
+"@MMK_R_f" = -10;
+"@MMK_R_x" = -10;
 };
 "@MMK_L_Tse-cy" = {
 "@MMK_R_Che-cy" = -10;
 "@MMK_R_O" = -30;
 "@MMK_R_T" = -20;
 "@MMK_R_Ze-cy" = -10;
-"@MMK_R_hyphen" = -20;
+"@MMK_R_hyphen" = -40;
 "@MMK_R_ia-cy" = -20;
 "@MMK_R_o" = -20;
 "@MMK_R_quotesingle" = -20;
 "@MMK_R_te-cy" = -10;
 "@MMK_R_v" = -20;
 "@MMK_R_y" = -20;
+"@MMK_R_che-cy" = -40;
 };
 "@MMK_L_U" = {
-"@MMK_R_A" = -101;
+"@MMK_R_A" = -71;
 "@MMK_R_O" = -30;
 "@MMK_R_a" = -40;
 "@MMK_R_ampersand" = -40;
 "@MMK_R_at" = -60;
 "@MMK_R_b" = 60;
 "@MMK_R_colon" = -10;
-"@MMK_R_f" = -10;
+"@MMK_R_f" = -20;
 "@MMK_R_five" = -10;
 "@MMK_R_g" = -40;
 "@MMK_R_guilsinglleft" = -20;
@@ -76481,10 +76482,10 @@ periodcentered.loclCAT = -300;
 "@MMK_R_hyphen" = -20;
 "@MMK_R_i" = -20;
 "@MMK_R_n" = -20;
-"@MMK_R_o" = -40;
+"@MMK_R_o" = -50;
 "@MMK_R_parenright" = 20;
-"@MMK_R_period" = -80;
-"@MMK_R_s" = -30;
+"@MMK_R_period" = -90;
+"@MMK_R_s" = -40;
 "@MMK_R_t" = -20;
 "@MMK_R_three" = -10;
 "@MMK_R_two" = -20;
@@ -76493,24 +76494,41 @@ periodcentered.loclCAT = -300;
 "@MMK_R_x" = -20;
 "@MMK_R_y" = -10;
 "@MMK_R_z" = -30;
+"@MMK_R_J" = -40;
 };
 "@MMK_L_U-cy" = {
-"@MMK_R_El-cy" = -40;
+"@MMK_R_El-cy" = -60;
 "@MMK_R_O" = -40;
 "@MMK_R_T" = 30;
 "@MMK_R_n" = -60;
-"@MMK_R_o" = -100;
-"@MMK_R_s" = -80;
+"@MMK_R_o" = -90;
+"@MMK_R_s" = -70;
 "@MMK_R_te-cy" = -20;
 "@MMK_R_u" = -30;
+"@MMK_R_A" = -90;
+"@MMK_R_De-cy" = -30;
+"@MMK_R_Ia-cy" = -70;
+"@MMK_R_a" = -60;
+"@MMK_R_be-cy" = -40;
+"@MMK_R_che-cy" = -30;
+"@MMK_R_colon" = -50;
+"@MMK_R_de-cy" = -90;
+"@MMK_R_el-cy" = -100;
+"@MMK_R_ereversed-cy" = -50;
+"@MMK_R_guilsinglright" = -20;
+"@MMK_R_hyphen" = -90;
+"@MMK_R_ia-cy" = -100;
+"@MMK_R_period" = -150;
+"@MMK_R_ze-cy" = -70;
+"@MMK_R_x" = -50;
 };
 "@MMK_L_V" = {
-"@MMK_R_A" = -110;
+"@MMK_R_A" = -60;
 "@MMK_R_De-cy" = -10;
 "@MMK_R_El-cy" = -40;
 "@MMK_R_Ia-cy" = -60;
-"@MMK_R_J" = -70;
-"@MMK_R_O" = -40;
+"@MMK_R_J" = -60;
+"@MMK_R_O" = -30;
 "@MMK_R_T" = 20;
 "@MMK_R_U-cy" = 20;
 "@MMK_R_V" = 10;
@@ -76519,12 +76537,12 @@ periodcentered.loclCAT = -300;
 "@MMK_R_ampersand" = -80;
 "@MMK_R_at" = -70;
 "@MMK_R_be-cy" = -30;
-"@MMK_R_che-cy" = -30;
+"@MMK_R_che-cy" = -20;
 "@MMK_R_colon" = -20;
-"@MMK_R_de-cy" = -70;
+"@MMK_R_de-cy" = -60;
 "@MMK_R_eight" = -30;
-"@MMK_R_el-cy" = -70;
-"@MMK_R_ereversed-cy" = -50;
+"@MMK_R_el-cy" = -50;
+"@MMK_R_ereversed-cy" = -40;
 "@MMK_R_f" = -10;
 "@MMK_R_four" = -50;
 "@MMK_R_g" = -60;
@@ -76532,18 +76550,18 @@ periodcentered.loclCAT = -300;
 "@MMK_R_guilsinglright" = -30;
 "@MMK_R_hyphen" = -60;
 "@MMK_R_i" = -10;
-"@MMK_R_ia-cy" = -80;
+"@MMK_R_ia-cy" = -70;
 "@MMK_R_n" = -20;
 "@MMK_R_o" = -70;
-"@MMK_R_period" = -130;
+"@MMK_R_period" = -120;
 "@MMK_R_quoteleft" = 20;
 "@MMK_R_quotesingle" = 20;
-"@MMK_R_s" = -50;
+"@MMK_R_s" = -60;
 "@MMK_R_six" = -20;
 "@MMK_R_t" = -20;
 "@MMK_R_te-cy" = -20;
 "@MMK_R_u" = 0;
-"@MMK_R_v" = 0;
+"@MMK_R_v" = 10;
 "@MMK_R_x" = -40;
 "@MMK_R_y" = -30;
 "@MMK_R_z" = -30;
@@ -76564,16 +76582,17 @@ periodcentered.loclCAT = -300;
 "@MMK_R_u" = -30;
 "@MMK_R_v" = -60;
 "@MMK_R_y" = -40;
+"@MMK_R_che-cy" = -60;
 };
 "@MMK_L_Y" = {
-"@MMK_R_A" = -100;
+"@MMK_R_A" = -80;
 "@MMK_R_De-cy" = -20;
 "@MMK_R_El-cy" = -50;
 "@MMK_R_Ia-cy" = -40;
 "@MMK_R_J" = -80;
-"@MMK_R_O" = -60;
+"@MMK_R_O" = -40;
 "@MMK_R_V" = 10;
-"@MMK_R_a" = -50;
+"@MMK_R_a" = -60;
 "@MMK_R_ampersand" = -70;
 "@MMK_R_at" = -90;
 "@MMK_R_colon" = -30;
@@ -76591,7 +76610,7 @@ periodcentered.loclCAT = -300;
 "@MMK_R_nine" = -10;
 "@MMK_R_o" = -60;
 "@MMK_R_period" = -130;
-"@MMK_R_s" = -50;
+"@MMK_R_s" = -60;
 "@MMK_R_seven" = 10;
 "@MMK_R_six" = -20;
 "@MMK_R_t" = -10;
@@ -76638,8 +76657,9 @@ egrave = -70;
 "@MMK_R_t" = -40;
 "@MMK_R_te-cy" = 0;
 "@MMK_R_u" = -40;
-"@MMK_R_v" = -60;
-"@MMK_R_y" = -70;
+"@MMK_R_v" = -50;
+"@MMK_R_y" = -60;
+"@MMK_R_che-cy" = -80;
 };
 "@MMK_L_ampersand" = {
 "@MMK_R_A" = -20;
@@ -76650,7 +76670,7 @@ egrave = -70;
 "@MMK_R_o" = -20;
 };
 "@MMK_L_asterisk" = {
-"@MMK_R_A" = -100;
+"@MMK_R_A" = -90;
 "@MMK_R_O" = -20;
 "@MMK_R_g" = -20;
 "@MMK_R_o" = -40;
@@ -76709,9 +76729,9 @@ egrave = -70;
 };
 "@MMK_L_e" = {
 "@MMK_R_S" = -10;
-"@MMK_R_T" = -40;
+"@MMK_R_T" = -30;
 "@MMK_R_U" = -40;
-"@MMK_R_U-cy" = -60;
+"@MMK_R_U-cy" = -50;
 "@MMK_R_V" = -70;
 "@MMK_R_X" = -40;
 "@MMK_R_Y" = -60;
@@ -76727,7 +76747,7 @@ egrave = -70;
 "@MMK_R_quotesingle" = -60;
 "@MMK_R_v" = -20;
 "@MMK_R_x" = -30;
-"@MMK_R_y" = -20;
+"@MMK_R_y" = -30;
 };
 "@MMK_L_eight" = {
 "@MMK_R_O" = -10;
@@ -76760,11 +76780,11 @@ egrave = -70;
 "@MMK_R_asterisk" = 20;
 "@MMK_R_backslash" = 50;
 "@MMK_R_exclam" = 10;
-"@MMK_R_g" = -10;
+"@MMK_R_g" = -20;
 "@MMK_R_hyphen" = -20;
 "@MMK_R_o" = -20;
 "@MMK_R_parenright" = 90;
-"@MMK_R_period" = -20;
+"@MMK_R_period" = -30;
 "@MMK_R_quoteleft" = 30;
 "@MMK_R_quoteright" = 50;
 "@MMK_R_quotesingle" = 40;
@@ -76833,18 +76853,18 @@ zero.dnom = -20;
 "@MMK_R_y" = -10;
 };
 "@MMK_L_ge-cy" = {
-"@MMK_R_De-cy" = -30;
-"@MMK_R_T" = -30;
-"@MMK_R_U-cy" = -10;
-"@MMK_R_X" = -40;
+"@MMK_R_De-cy" = -20;
+"@MMK_R_T" = 10;
+"@MMK_R_U-cy" = -20;
+"@MMK_R_X" = -10;
 "@MMK_R_a" = -10;
 "@MMK_R_che-cy" = -10;
-"@MMK_R_de-cy" = -40;
+"@MMK_R_de-cy" = -20;
 "@MMK_R_el-cy" = -30;
 "@MMK_R_ia-cy" = -20;
 "@MMK_R_n" = -10;
 "@MMK_R_o" = -10;
-"@MMK_R_period" = -80;
+"@MMK_R_period" = -70;
 "@MMK_R_te-cy" = 30;
 "@MMK_R_x" = -20;
 };
@@ -76878,16 +76898,16 @@ zero.dnom = -20;
 };
 "@MMK_L_hyphen" = {
 "@MMK_R_A" = -50;
-"@MMK_R_Che-cy" = -110;
-"@MMK_R_De-cy" = -50;
+"@MMK_R_Che-cy" = -100;
+"@MMK_R_De-cy" = -40;
 "@MMK_R_El-cy" = -60;
 "@MMK_R_I" = -10;
 "@MMK_R_O" = -10;
-"@MMK_R_T" = -70;
+"@MMK_R_T" = -60;
 "@MMK_R_U" = -30;
 "@MMK_R_U-cy" = -110;
 "@MMK_R_V" = -120;
-"@MMK_R_X" = -100;
+"@MMK_R_X" = -90;
 "@MMK_R_Y" = -90;
 "@MMK_R_Z" = -20;
 "@MMK_R_de-cy" = -30;
@@ -76918,7 +76938,7 @@ zero.dnom = -20;
 "@MMK_R_U-cy" = -30;
 "@MMK_R_V" = -20;
 "@MMK_R_Y" = -20;
-"@MMK_R_a" = -10;
+"@MMK_R_a" = 0;
 "@MMK_R_ampersand" = -10;
 "@MMK_R_be-cy" = -20;
 "@MMK_R_che-cy" = -20;
@@ -76942,7 +76962,7 @@ periodcentered.loclCAT = -110;
 "@MMK_R_backslash" = -30;
 "@MMK_R_guilsinglleft" = 10;
 "@MMK_R_quoteleft" = -40;
-"@MMK_R_quotesingle" = -90;
+"@MMK_R_quotesingle" = -80;
 "@MMK_R_u" = -20;
 "@MMK_R_v" = -50;
 "@MMK_R_y" = -50;
@@ -76957,7 +76977,7 @@ periodcentered.loclCAT = -110;
 "@MMK_R_nine" = 0;
 "@MMK_R_one" = 20;
 "@MMK_R_period" = -30;
-"@MMK_R_quotesingle" = -30;
+"@MMK_R_quotesingle" = -20;
 "@MMK_R_seven" = -10;
 "@MMK_R_two" = -10;
 "@MMK_R_zero" = 10;
@@ -76973,10 +76993,10 @@ periodcentered.loclCAT = -110;
 "@MMK_R_Z" = -20;
 "@MMK_R_ampersand" = -10;
 "@MMK_R_asterisk" = -30;
-"@MMK_R_che-cy" = -30;
-"@MMK_R_de-cy" = -40;
+"@MMK_R_che-cy" = -40;
+"@MMK_R_de-cy" = -20;
 "@MMK_R_el-cy" = -30;
-"@MMK_R_ia-cy" = -10;
+"@MMK_R_ia-cy" = -20;
 "@MMK_R_jdotless" = -10;
 "@MMK_R_n" = 0;
 "@MMK_R_o" = -10;
@@ -76986,8 +77006,8 @@ periodcentered.loclCAT = -110;
 "@MMK_R_t" = -30;
 "@MMK_R_te-cy" = -10;
 "@MMK_R_v" = -30;
-"@MMK_R_x" = -30;
-"@MMK_R_y" = -10;
+"@MMK_R_x" = -20;
+"@MMK_R_y" = -30;
 "@MMK_R_ze-cy" = 0;
 };
 "@MMK_L_one" = {
@@ -77024,7 +77044,7 @@ periodcentered.loclCAT = -110;
 };
 "@MMK_L_period" = {
 "@MMK_R_O" = -40;
-"@MMK_R_T" = -70;
+"@MMK_R_T" = -80;
 "@MMK_R_U" = -70;
 "@MMK_R_V" = -110;
 "@MMK_R_Y" = -100;
@@ -77057,7 +77077,7 @@ periodcentered.loclCAT = -110;
 };
 "@MMK_L_questiondown" = {
 "@MMK_R_I" = -20;
-"@MMK_R_J" = -60;
+"@MMK_R_J" = -40;
 "@MMK_R_O" = -40;
 "@MMK_R_S" = -20;
 "@MMK_R_T" = -50;
@@ -77086,6 +77106,8 @@ periodcentered.loclCAT = -110;
 "@MMK_R_s" = -10;
 "@MMK_R_space" = 0;
 "@MMK_R_v" = 20;
+"@MMK_R_El-cy" = -20;
+"@MMK_R_De-cy" = -10;
 };
 "@MMK_L_quoteright" = {
 "@MMK_R_A" = -70;
@@ -77109,26 +77131,26 @@ periodcentered.loclCAT = -110;
 "@MMK_R_u" = -10;
 };
 "@MMK_L_quotesingle" = {
-"@MMK_R_A" = -120;
-"@MMK_R_De-cy" = -40;
-"@MMK_R_El-cy" = -80;
-"@MMK_R_O" = -30;
+"@MMK_R_A" = -80;
+"@MMK_R_De-cy" = -30;
+"@MMK_R_El-cy" = -60;
+"@MMK_R_O" = -20;
 "@MMK_R_Ze-cy" = -50;
-"@MMK_R_a" = -50;
+"@MMK_R_a" = -40;
 "@MMK_R_ampersand" = -60;
 "@MMK_R_at" = -60;
-"@MMK_R_che-cy" = -20;
-"@MMK_R_de-cy" = -60;
-"@MMK_R_el-cy" = -80;
-"@MMK_R_ereversed-cy" = -70;
+"@MMK_R_che-cy" = -10;
+"@MMK_R_de-cy" = -40;
+"@MMK_R_el-cy" = -60;
+"@MMK_R_ereversed-cy" = -30;
 "@MMK_R_four" = -30;
 "@MMK_R_g" = -20;
 "@MMK_R_guilsinglleft" = -20;
-"@MMK_R_ia-cy" = -80;
-"@MMK_R_n" = -40;
-"@MMK_R_o" = -40;
+"@MMK_R_ia-cy" = -70;
+"@MMK_R_n" = -30;
+"@MMK_R_o" = -50;
 "@MMK_R_period" = -110;
-"@MMK_R_s" = -20;
+"@MMK_R_s" = -40;
 "@MMK_R_te-cy" = -10;
 "@MMK_R_v" = 10;
 "@MMK_R_x" = -20;
@@ -77142,14 +77164,14 @@ periodcentered.loclCAT = -110;
 "@MMK_R_period" = -80;
 };
 "@MMK_L_s" = {
-"@MMK_R_T" = -50;
+"@MMK_R_T" = -20;
 "@MMK_R_U" = -40;
-"@MMK_R_U-cy" = -50;
+"@MMK_R_U-cy" = -60;
 "@MMK_R_V" = -40;
 "@MMK_R_X" = -10;
 "@MMK_R_Y" = -40;
 "@MMK_R_Z" = -20;
-"@MMK_R_o" = 0;
+"@MMK_R_o" = -10;
 "@MMK_R_parenright" = 10;
 "@MMK_R_quoteleft" = 10;
 };
@@ -77159,13 +77181,13 @@ periodcentered.loclCAT = -110;
 "@MMK_R_Y" = 30;
 "@MMK_R_eight" = 0;
 "@MMK_R_five" = 30;
-"@MMK_R_four" = -20;
-"@MMK_R_hyphen" = -50;
+"@MMK_R_four" = -10;
+"@MMK_R_hyphen" = -40;
 "@MMK_R_nine" = 20;
 "@MMK_R_o" = -40;
 "@MMK_R_one" = 30;
 "@MMK_R_parenright" = 70;
-"@MMK_R_period" = -100;
+"@MMK_R_period" = -110;
 "@MMK_R_seven" = 30;
 "@MMK_R_six" = 0;
 "@MMK_R_three" = 40;
@@ -77190,14 +77212,17 @@ periodcentered.loclCAT = -110;
 };
 "@MMK_L_softsign-cy" = {
 "@MMK_R_El-cy" = -20;
-"@MMK_R_T" = -90;
+"@MMK_R_T" = -100;
 "@MMK_R_U-cy" = -100;
 "@MMK_R_de-cy" = -10;
-"@MMK_R_quoteleft" = -80;
-"@MMK_R_quotesingle" = -140;
+"@MMK_R_quoteleft" = -70;
+"@MMK_R_quotesingle" = -130;
 "@MMK_R_te-cy" = -20;
-"@MMK_R_v" = -60;
+"@MMK_R_v" = -50;
 "@MMK_R_x" = -10;
+"@MMK_R_O" = -10;
+"@MMK_R_che-cy" = -70;
+"@MMK_R_y" = -70;
 };
 "@MMK_L_sterling" = {
 "@MMK_R_four" = -50;
@@ -77214,11 +77239,12 @@ periodcentered.loclCAT = -110;
 "@MMK_R_o" = -20;
 "@MMK_R_parenright" = 20;
 "@MMK_R_quotesingle" = -60;
+"@MMK_R_g" = -10;
 };
 "@MMK_L_te-cy" = {
-"@MMK_R_A" = -60;
+"@MMK_R_A" = -50;
 "@MMK_R_O" = 10;
-"@MMK_R_U-cy" = -10;
+"@MMK_R_U-cy" = -20;
 "@MMK_R_X" = -20;
 "@MMK_R_de-cy" = -30;
 "@MMK_R_el-cy" = -30;
@@ -77226,6 +77252,8 @@ periodcentered.loclCAT = -110;
 "@MMK_R_quotesingle" = -10;
 "@MMK_R_v" = 10;
 "@MMK_R_ze-cy" = -10;
+"@MMK_R_ia-cy" = -20;
+"@MMK_R_period" = -60;
 };
 "@MMK_L_three" = {
 "@MMK_R_J" = -10;
@@ -77302,21 +77330,25 @@ periodcentered.loclCAT = -110;
 "@MMK_R_ia-cy" = -30;
 "@MMK_R_jdotless" = 10;
 "@MMK_R_o" = -20;
-"@MMK_R_period" = -80;
+"@MMK_R_period" = -100;
 "@MMK_R_ze-cy" = 0;
+"@MMK_R_T" = 10;
+"@MMK_R_g" = -10;
 };
 "@MMK_L_ve-cy" = {
 "@MMK_R_T" = -40;
 "@MMK_R_U-cy" = -90;
 "@MMK_R_be-cy" = -20;
-"@MMK_R_che-cy" = -10;
-"@MMK_R_de-cy" = -10;
-"@MMK_R_el-cy" = -10;
+"@MMK_R_che-cy" = -20;
+"@MMK_R_de-cy" = -20;
+"@MMK_R_el-cy" = -20;
 "@MMK_R_ia-cy" = -10;
-"@MMK_R_quotesingle" = -80;
+"@MMK_R_quotesingle" = -70;
 "@MMK_R_te-cy" = -10;
 "@MMK_R_v" = -30;
 "@MMK_R_x" = -20;
+"@MMK_R_o" = -10;
+"@MMK_R_y" = -20;
 };
 "@MMK_L_x" = {
 "@MMK_R_O" = -10;
@@ -77324,26 +77356,29 @@ periodcentered.loclCAT = -110;
 "@MMK_R_U-cy" = -40;
 "@MMK_R_V" = -40;
 "@MMK_R_Y" = -30;
-"@MMK_R_a" = -10;
+"@MMK_R_a" = 0;
 "@MMK_R_ampersand" = -30;
 "@MMK_R_be-cy" = -30;
 "@MMK_R_che-cy" = -20;
 "@MMK_R_de-cy" = -20;
 "@MMK_R_ereversed-cy" = -10;
-"@MMK_R_g" = -30;
+"@MMK_R_g" = -20;
 "@MMK_R_hyphen" = -40;
-"@MMK_R_o" = -40;
+"@MMK_R_o" = -30;
 "@MMK_R_quotesingle" = -40;
 };
 "@MMK_L_y" = {
 "@MMK_R_A" = -70;
 "@MMK_R_J" = -10;
-"@MMK_R_X" = -10;
+"@MMK_R_X" = -20;
 "@MMK_R_ampersand" = -30;
-"@MMK_R_el-cy" = -20;
+"@MMK_R_el-cy" = -30;
 "@MMK_R_hyphen" = -20;
 "@MMK_R_o" = -30;
-"@MMK_R_period" = -70;
+"@MMK_R_period" = -80;
+"@MMK_R_a" = -10;
+"@MMK_R_de-cy" = -10;
+"@MMK_R_ia-cy" = -30;
 };
 "@MMK_L_z" = {
 "@MMK_R_T" = -10;
@@ -77401,6 +77436,12 @@ zero.numr = {
 };
 zerosuperior = {
 "@MMK_R_fraction" = -30;
+};
+"@MMK_L_E" = {
+"@MMK_R_el-cy" = -30;
+"@MMK_R_te-cy" = -10;
+"@MMK_R_v" = -20;
+"@MMK_R_y" = -10;
 };
 };
 };
