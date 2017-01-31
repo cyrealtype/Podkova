@@ -758,6 +758,8 @@ layerId = "6E1B38A8-44EA-440A-BD04-FE41D2B0BC62";
 width = 662;
 }
 );
+leftKerningGroup = A;
+rightKerningGroup = A;
 unicode = 0102;
 },
 {
@@ -798,6 +800,8 @@ layerId = "6E1B38A8-44EA-440A-BD04-FE41D2B0BC62";
 width = 662;
 }
 );
+leftKerningGroup = A;
+rightKerningGroup = A;
 unicode = 1EAE;
 },
 {
@@ -838,6 +842,8 @@ layerId = "6E1B38A8-44EA-440A-BD04-FE41D2B0BC62";
 width = 662;
 }
 );
+leftKerningGroup = A;
+rightKerningGroup = A;
 unicode = 1EB6;
 },
 {
@@ -878,6 +884,8 @@ layerId = "6E1B38A8-44EA-440A-BD04-FE41D2B0BC62";
 width = 662;
 }
 );
+leftKerningGroup = A;
+rightKerningGroup = A;
 unicode = 1EB0;
 },
 {
@@ -910,6 +918,8 @@ layerId = "6E1B38A8-44EA-440A-BD04-FE41D2B0BC62";
 width = 662;
 }
 );
+leftKerningGroup = A;
+rightKerningGroup = A;
 unicode = 1EB2;
 },
 {
@@ -942,6 +952,8 @@ layerId = "6E1B38A8-44EA-440A-BD04-FE41D2B0BC62";
 width = 662;
 }
 );
+leftKerningGroup = A;
+rightKerningGroup = A;
 unicode = 1EB4;
 },
 {
@@ -1008,6 +1020,8 @@ layerId = "6E1B38A8-44EA-440A-BD04-FE41D2B0BC62";
 width = 662;
 }
 );
+leftKerningGroup = A;
+rightKerningGroup = A;
 unicode = 1EA4;
 },
 {
@@ -1048,6 +1062,8 @@ layerId = "6E1B38A8-44EA-440A-BD04-FE41D2B0BC62";
 width = 662;
 }
 );
+leftKerningGroup = A;
+rightKerningGroup = A;
 unicode = 1EAC;
 },
 {
@@ -1080,6 +1096,8 @@ layerId = "6E1B38A8-44EA-440A-BD04-FE41D2B0BC62";
 width = 662;
 }
 );
+leftKerningGroup = A;
+rightKerningGroup = A;
 unicode = 1EA6;
 },
 {
@@ -1120,6 +1138,8 @@ layerId = "6E1B38A8-44EA-440A-BD04-FE41D2B0BC62";
 width = 662;
 }
 );
+leftKerningGroup = A;
+rightKerningGroup = A;
 unicode = 1EA8;
 },
 {
@@ -1152,6 +1172,8 @@ layerId = "6E1B38A8-44EA-440A-BD04-FE41D2B0BC62";
 width = 662;
 }
 );
+leftKerningGroup = A;
+rightKerningGroup = A;
 unicode = 1EAA;
 },
 {
@@ -1250,6 +1272,8 @@ layerId = "6E1B38A8-44EA-440A-BD04-FE41D2B0BC62";
 width = 662;
 }
 );
+leftKerningGroup = A;
+rightKerningGroup = A;
 unicode = 1EA0;
 },
 {
@@ -1329,6 +1353,8 @@ layerId = "6E1B38A8-44EA-440A-BD04-FE41D2B0BC62";
 width = 662;
 }
 );
+leftKerningGroup = A;
+rightKerningGroup = A;
 unicode = 1EA2;
 },
 {
@@ -3387,6 +3413,8 @@ layerId = "6E1B38A8-44EA-440A-BD04-FE41D2B0BC62";
 width = 617;
 }
 );
+leftKerningGroup = I;
+rightKerningGroup = E;
 unicode = 1EBE;
 },
 {
@@ -3427,6 +3455,8 @@ layerId = "6E1B38A8-44EA-440A-BD04-FE41D2B0BC62";
 width = 617;
 }
 );
+leftKerningGroup = I;
+rightKerningGroup = E;
 unicode = 1EC6;
 },
 {
@@ -3459,6 +3489,8 @@ layerId = "6E1B38A8-44EA-440A-BD04-FE41D2B0BC62";
 width = 617;
 }
 );
+leftKerningGroup = I;
+rightKerningGroup = E;
 unicode = 1EC0;
 },
 {
@@ -3499,6 +3531,8 @@ layerId = "6E1B38A8-44EA-440A-BD04-FE41D2B0BC62";
 width = 617;
 }
 );
+leftKerningGroup = I;
+rightKerningGroup = E;
 unicode = 1EC2;
 },
 {
@@ -3531,6 +3565,8 @@ layerId = "6E1B38A8-44EA-440A-BD04-FE41D2B0BC62";
 width = 617;
 }
 );
+leftKerningGroup = I;
+rightKerningGroup = E;
 unicode = 1EC4;
 },
 {
@@ -3661,6 +3697,8 @@ layerId = "6E1B38A8-44EA-440A-BD04-FE41D2B0BC62";
 width = 617;
 }
 );
+leftKerningGroup = I;
+rightKerningGroup = E;
 unicode = 1EB8;
 },
 {
@@ -3740,6 +3778,8 @@ layerId = "6E1B38A8-44EA-440A-BD04-FE41D2B0BC62";
 width = 617;
 }
 );
+leftKerningGroup = I;
+rightKerningGroup = E;
 unicode = 1EBA;
 },
 {
@@ -3950,6 +3990,8 @@ layerId = "6E1B38A8-44EA-440A-BD04-FE41D2B0BC62";
 width = 617;
 }
 );
+leftKerningGroup = I;
+rightKerningGroup = E;
 unicode = 1EBC;
 },
 {
@@ -5128,6 +5170,8 @@ layerId = "6E1B38A8-44EA-440A-BD04-FE41D2B0BC62";
 width = 405;
 }
 );
+leftKerningGroup = I;
+rightKerningGroup = I;
 unicode = 1ECA;
 },
 {
@@ -5207,6 +5251,8 @@ layerId = "6E1B38A8-44EA-440A-BD04-FE41D2B0BC62";
 width = 405;
 }
 );
+leftKerningGroup = I;
+rightKerningGroup = I;
 unicode = 1EC8;
 },
 {
@@ -5335,6 +5381,8 @@ layerId = "6E1B38A8-44EA-440A-BD04-FE41D2B0BC62";
 width = 405;
 }
 );
+leftKerningGroup = I;
+rightKerningGroup = I;
 unicode = 0128;
 },
 {
@@ -7267,6 +7315,8 @@ layerId = "6E1B38A8-44EA-440A-BD04-FE41D2B0BC62";
 width = 680;
 }
 );
+leftKerningGroup = O;
+rightKerningGroup = O;
 unicode = 1ED0;
 },
 {
@@ -7307,6 +7357,8 @@ layerId = "6E1B38A8-44EA-440A-BD04-FE41D2B0BC62";
 width = 680;
 }
 );
+leftKerningGroup = O;
+rightKerningGroup = O;
 unicode = 1ED8;
 },
 {
@@ -7339,6 +7391,8 @@ layerId = "6E1B38A8-44EA-440A-BD04-FE41D2B0BC62";
 width = 680;
 }
 );
+leftKerningGroup = O;
+rightKerningGroup = O;
 unicode = 1ED2;
 },
 {
@@ -7379,6 +7433,8 @@ layerId = "6E1B38A8-44EA-440A-BD04-FE41D2B0BC62";
 width = 680;
 }
 );
+leftKerningGroup = O;
+rightKerningGroup = O;
 unicode = 1ED4;
 },
 {
@@ -7411,6 +7467,8 @@ layerId = "6E1B38A8-44EA-440A-BD04-FE41D2B0BC62";
 width = 680;
 }
 );
+leftKerningGroup = O;
+rightKerningGroup = O;
 unicode = 1ED6;
 },
 {
@@ -7591,6 +7649,8 @@ layerId = "6E1B38A8-44EA-440A-BD04-FE41D2B0BC62";
 width = 680;
 }
 );
+leftKerningGroup = O;
+rightKerningGroup = O;
 unicode = 1ECC;
 },
 {
@@ -7672,6 +7732,8 @@ layerId = "6E1B38A8-44EA-440A-BD04-FE41D2B0BC62";
 width = 680;
 }
 );
+leftKerningGroup = O;
+rightKerningGroup = O;
 unicode = 1ECE;
 },
 {
@@ -7704,6 +7766,8 @@ layerId = "6E1B38A8-44EA-440A-BD04-FE41D2B0BC62";
 width = 680;
 }
 );
+leftKerningGroup = O;
+rightKerningGroup = O;
 unicode = 01A0;
 },
 {
@@ -7736,6 +7800,8 @@ layerId = "6E1B38A8-44EA-440A-BD04-FE41D2B0BC62";
 width = 680;
 }
 );
+leftKerningGroup = O;
+rightKerningGroup = O;
 unicode = 1EDA;
 },
 {
@@ -7768,6 +7834,8 @@ layerId = "6E1B38A8-44EA-440A-BD04-FE41D2B0BC62";
 width = 680;
 }
 );
+leftKerningGroup = O;
+rightKerningGroup = O;
 unicode = 1EE2;
 },
 {
@@ -7802,6 +7870,8 @@ layerId = "6E1B38A8-44EA-440A-BD04-FE41D2B0BC62";
 width = 680;
 }
 );
+leftKerningGroup = O;
+rightKerningGroup = O;
 unicode = 1EDC;
 },
 {
@@ -7834,6 +7904,8 @@ layerId = "6E1B38A8-44EA-440A-BD04-FE41D2B0BC62";
 width = 680;
 }
 );
+leftKerningGroup = O;
+rightKerningGroup = O;
 unicode = 1EDE;
 },
 {
@@ -7867,6 +7939,8 @@ layerId = "6E1B38A8-44EA-440A-BD04-FE41D2B0BC62";
 width = 680;
 }
 );
+leftKerningGroup = O;
+rightKerningGroup = O;
 unicode = 1EE0;
 },
 {
@@ -11025,6 +11099,8 @@ layerId = "6E1B38A8-44EA-440A-BD04-FE41D2B0BC62";
 width = 692;
 }
 );
+leftKerningGroup = U;
+rightKerningGroup = U;
 unicode = 1EE4;
 },
 {
@@ -11104,6 +11180,8 @@ layerId = "6E1B38A8-44EA-440A-BD04-FE41D2B0BC62";
 width = 692;
 }
 );
+leftKerningGroup = U;
+rightKerningGroup = U;
 unicode = 1EE6;
 },
 {
@@ -11238,7 +11316,9 @@ nodes = (
 width = 752;
 }
 );
+leftKerningGroup = U;
 leftMetricsKey = U;
+rightKerningGroup = U;
 unicode = 01AF;
 },
 {
@@ -11271,6 +11351,8 @@ layerId = "6E1B38A8-44EA-440A-BD04-FE41D2B0BC62";
 width = 752;
 }
 );
+leftKerningGroup = U;
+rightKerningGroup = U;
 unicode = 1EE8;
 },
 {
@@ -11303,6 +11385,8 @@ layerId = "6E1B38A8-44EA-440A-BD04-FE41D2B0BC62";
 width = 752;
 }
 );
+leftKerningGroup = U;
+rightKerningGroup = U;
 unicode = 1EF0;
 },
 {
@@ -11335,6 +11419,8 @@ layerId = "6E1B38A8-44EA-440A-BD04-FE41D2B0BC62";
 width = 752;
 }
 );
+leftKerningGroup = U;
+rightKerningGroup = U;
 unicode = 1EEA;
 },
 {
@@ -11367,6 +11453,8 @@ layerId = "6E1B38A8-44EA-440A-BD04-FE41D2B0BC62";
 width = 752;
 }
 );
+leftKerningGroup = U;
+rightKerningGroup = U;
 unicode = 1EEC;
 },
 {
@@ -11399,6 +11487,8 @@ layerId = "6E1B38A8-44EA-440A-BD04-FE41D2B0BC62";
 width = 752;
 }
 );
+leftKerningGroup = U;
+rightKerningGroup = U;
 unicode = 1EEE;
 },
 {
@@ -11632,6 +11722,8 @@ layerId = "6E1B38A8-44EA-440A-BD04-FE41D2B0BC62";
 width = 692;
 }
 );
+leftKerningGroup = U;
+rightKerningGroup = U;
 unicode = 0168;
 },
 {
@@ -12596,6 +12688,8 @@ layerId = "6E1B38A8-44EA-440A-BD04-FE41D2B0BC62";
 width = 667;
 }
 );
+leftKerningGroup = Y;
+rightKerningGroup = Y;
 unicode = 1EF4;
 },
 {
@@ -12628,6 +12722,8 @@ layerId = "6E1B38A8-44EA-440A-BD04-FE41D2B0BC62";
 width = 667;
 }
 );
+leftKerningGroup = Y;
+rightKerningGroup = Y;
 unicode = 1EF2;
 },
 {
@@ -12660,6 +12756,8 @@ layerId = "6E1B38A8-44EA-440A-BD04-FE41D2B0BC62";
 width = 667;
 }
 );
+leftKerningGroup = Y;
+rightKerningGroup = Y;
 unicode = 1EF6;
 },
 {
@@ -12724,6 +12822,8 @@ layerId = "6E1B38A8-44EA-440A-BD04-FE41D2B0BC62";
 width = 667;
 }
 );
+leftKerningGroup = Y;
+rightKerningGroup = Y;
 unicode = 1EF8;
 },
 {
@@ -13293,6 +13393,8 @@ layerId = "6E1B38A8-44EA-440A-BD04-FE41D2B0BC62";
 width = 560;
 }
 );
+leftKerningGroup = a;
+rightKerningGroup = a;
 unicode = 0103;
 },
 {
@@ -13325,6 +13427,8 @@ layerId = "6E1B38A8-44EA-440A-BD04-FE41D2B0BC62";
 width = 560;
 }
 );
+leftKerningGroup = a;
+rightKerningGroup = a;
 unicode = 1EAF;
 },
 {
@@ -13365,6 +13469,8 @@ layerId = "6E1B38A8-44EA-440A-BD04-FE41D2B0BC62";
 width = 560;
 }
 );
+leftKerningGroup = a;
+rightKerningGroup = a;
 unicode = 1EB7;
 },
 {
@@ -13397,6 +13503,8 @@ layerId = "6E1B38A8-44EA-440A-BD04-FE41D2B0BC62";
 width = 560;
 }
 );
+leftKerningGroup = a;
+rightKerningGroup = a;
 unicode = 1EB1;
 },
 {
@@ -13429,6 +13537,8 @@ layerId = "6E1B38A8-44EA-440A-BD04-FE41D2B0BC62";
 width = 560;
 }
 );
+leftKerningGroup = a;
+rightKerningGroup = a;
 unicode = 1EB3;
 },
 {
@@ -13461,6 +13571,8 @@ layerId = "6E1B38A8-44EA-440A-BD04-FE41D2B0BC62";
 width = 560;
 }
 );
+leftKerningGroup = a;
+rightKerningGroup = a;
 unicode = 1EB5;
 },
 {
@@ -13527,6 +13639,8 @@ layerId = "6E1B38A8-44EA-440A-BD04-FE41D2B0BC62";
 width = 560;
 }
 );
+leftKerningGroup = a;
+rightKerningGroup = a;
 unicode = 1EA5;
 },
 {
@@ -13567,6 +13681,8 @@ layerId = "6E1B38A8-44EA-440A-BD04-FE41D2B0BC62";
 width = 560;
 }
 );
+leftKerningGroup = a;
+rightKerningGroup = a;
 unicode = 1EAD;
 },
 {
@@ -13599,6 +13715,8 @@ layerId = "6E1B38A8-44EA-440A-BD04-FE41D2B0BC62";
 width = 560;
 }
 );
+leftKerningGroup = a;
+rightKerningGroup = a;
 unicode = 1EA7;
 },
 {
@@ -13631,6 +13749,8 @@ layerId = "6E1B38A8-44EA-440A-BD04-FE41D2B0BC62";
 width = 560;
 }
 );
+leftKerningGroup = a;
+rightKerningGroup = a;
 unicode = 1EA9;
 },
 {
@@ -13663,6 +13783,8 @@ layerId = "6E1B38A8-44EA-440A-BD04-FE41D2B0BC62";
 width = 560;
 }
 );
+leftKerningGroup = a;
+rightKerningGroup = a;
 unicode = 1EAB;
 },
 {
@@ -13761,6 +13883,8 @@ layerId = "6E1B38A8-44EA-440A-BD04-FE41D2B0BC62";
 width = 560;
 }
 );
+leftKerningGroup = a;
+rightKerningGroup = a;
 unicode = 1EA1;
 },
 {
@@ -13840,6 +13964,8 @@ layerId = "6E1B38A8-44EA-440A-BD04-FE41D2B0BC62";
 width = 560;
 }
 );
+leftKerningGroup = a;
+rightKerningGroup = a;
 unicode = 1EA3;
 },
 {
@@ -16131,6 +16257,8 @@ layerId = "6E1B38A8-44EA-440A-BD04-FE41D2B0BC62";
 width = 532;
 }
 );
+leftKerningGroup = o;
+rightKerningGroup = e;
 unicode = 1EBF;
 },
 {
@@ -16171,6 +16299,8 @@ layerId = "6E1B38A8-44EA-440A-BD04-FE41D2B0BC62";
 width = 532;
 }
 );
+leftKerningGroup = o;
+rightKerningGroup = e;
 unicode = 1EC7;
 },
 {
@@ -16203,6 +16333,8 @@ layerId = "6E1B38A8-44EA-440A-BD04-FE41D2B0BC62";
 width = 532;
 }
 );
+leftKerningGroup = o;
+rightKerningGroup = e;
 unicode = 1EC1;
 },
 {
@@ -16235,6 +16367,8 @@ layerId = "6E1B38A8-44EA-440A-BD04-FE41D2B0BC62";
 width = 532;
 }
 );
+leftKerningGroup = o;
+rightKerningGroup = e;
 unicode = 1EC3;
 },
 {
@@ -16267,6 +16401,8 @@ layerId = "6E1B38A8-44EA-440A-BD04-FE41D2B0BC62";
 width = 532;
 }
 );
+leftKerningGroup = o;
+rightKerningGroup = e;
 unicode = 1EC5;
 },
 {
@@ -16397,6 +16533,8 @@ layerId = "6E1B38A8-44EA-440A-BD04-FE41D2B0BC62";
 width = 532;
 }
 );
+leftKerningGroup = o;
+rightKerningGroup = e;
 unicode = 1EB9;
 },
 {
@@ -16476,6 +16614,8 @@ layerId = "6E1B38A8-44EA-440A-BD04-FE41D2B0BC62";
 width = 532;
 }
 );
+leftKerningGroup = o;
+rightKerningGroup = e;
 unicode = 1EBB;
 },
 {
@@ -16686,6 +16826,8 @@ layerId = "6E1B38A8-44EA-440A-BD04-FE41D2B0BC62";
 width = 532;
 }
 );
+leftKerningGroup = o;
+rightKerningGroup = e;
 unicode = 1EBD;
 },
 {
@@ -18195,6 +18337,8 @@ layerId = "6E1B38A8-44EA-440A-BD04-FE41D2B0BC62";
 width = 360;
 }
 );
+leftKerningGroup = i;
+rightKerningGroup = i;
 unicode = 1ECB;
 },
 {
@@ -18289,6 +18433,8 @@ layerId = "6E1B38A8-44EA-440A-BD04-FE41D2B0BC62";
 width = 360;
 }
 );
+leftKerningGroup = i;
+rightKerningGroup = i;
 unicode = 1EC9;
 },
 {
@@ -18425,6 +18571,8 @@ layerId = "6E1B38A8-44EA-440A-BD04-FE41D2B0BC62";
 width = 360;
 }
 );
+leftKerningGroup = i;
+rightKerningGroup = i;
 unicode = 0129;
 },
 {
@@ -20417,6 +20565,8 @@ layerId = "6E1B38A8-44EA-440A-BD04-FE41D2B0BC62";
 width = 567;
 }
 );
+leftKerningGroup = o;
+rightKerningGroup = o;
 unicode = 1ED1;
 },
 {
@@ -20457,6 +20607,8 @@ layerId = "6E1B38A8-44EA-440A-BD04-FE41D2B0BC62";
 width = 567;
 }
 );
+leftKerningGroup = o;
+rightKerningGroup = o;
 unicode = 1ED9;
 },
 {
@@ -20489,6 +20641,8 @@ layerId = "6E1B38A8-44EA-440A-BD04-FE41D2B0BC62";
 width = 567;
 }
 );
+leftKerningGroup = o;
+rightKerningGroup = o;
 unicode = 1ED3;
 },
 {
@@ -20521,6 +20675,8 @@ layerId = "6E1B38A8-44EA-440A-BD04-FE41D2B0BC62";
 width = 567;
 }
 );
+leftKerningGroup = o;
+rightKerningGroup = o;
 unicode = 1ED5;
 },
 {
@@ -20553,6 +20709,8 @@ layerId = "6E1B38A8-44EA-440A-BD04-FE41D2B0BC62";
 width = 567;
 }
 );
+leftKerningGroup = o;
+rightKerningGroup = o;
 unicode = 1ED7;
 },
 {
@@ -20730,6 +20888,8 @@ layerId = "6E1B38A8-44EA-440A-BD04-FE41D2B0BC62";
 width = 567;
 }
 );
+leftKerningGroup = o;
+rightKerningGroup = o;
 unicode = 1ECD;
 },
 {
@@ -20809,6 +20969,8 @@ layerId = "6E1B38A8-44EA-440A-BD04-FE41D2B0BC62";
 width = 567;
 }
 );
+leftKerningGroup = o;
+rightKerningGroup = o;
 unicode = 1ECF;
 },
 {
@@ -20841,6 +21003,8 @@ layerId = "6E1B38A8-44EA-440A-BD04-FE41D2B0BC62";
 width = 567;
 }
 );
+leftKerningGroup = o;
+rightKerningGroup = o;
 unicode = 01A1;
 },
 {
@@ -20873,6 +21037,8 @@ layerId = "6E1B38A8-44EA-440A-BD04-FE41D2B0BC62";
 width = 567;
 }
 );
+leftKerningGroup = o;
+rightKerningGroup = o;
 unicode = 1EDB;
 },
 {
@@ -20905,6 +21071,8 @@ layerId = "6E1B38A8-44EA-440A-BD04-FE41D2B0BC62";
 width = 567;
 }
 );
+leftKerningGroup = o;
+rightKerningGroup = o;
 unicode = 1EE3;
 },
 {
@@ -20937,6 +21105,8 @@ layerId = "6E1B38A8-44EA-440A-BD04-FE41D2B0BC62";
 width = 567;
 }
 );
+leftKerningGroup = o;
+rightKerningGroup = o;
 unicode = 1EDD;
 },
 {
@@ -20969,6 +21139,8 @@ layerId = "6E1B38A8-44EA-440A-BD04-FE41D2B0BC62";
 width = 567;
 }
 );
+leftKerningGroup = o;
+rightKerningGroup = o;
 unicode = 1EDF;
 },
 {
@@ -21001,6 +21173,8 @@ layerId = "6E1B38A8-44EA-440A-BD04-FE41D2B0BC62";
 width = 567;
 }
 );
+leftKerningGroup = o;
+rightKerningGroup = o;
 unicode = 1EE1;
 },
 {
@@ -24091,6 +24265,8 @@ layerId = "6E1B38A8-44EA-440A-BD04-FE41D2B0BC62";
 width = 646;
 }
 );
+leftKerningGroup = u;
+rightKerningGroup = u;
 unicode = 1EE5;
 },
 {
@@ -24170,6 +24346,8 @@ layerId = "6E1B38A8-44EA-440A-BD04-FE41D2B0BC62";
 width = 646;
 }
 );
+leftKerningGroup = u;
+rightKerningGroup = u;
 unicode = 1EE7;
 },
 {
@@ -24206,6 +24384,8 @@ layerId = "6E1B38A8-44EA-440A-BD04-FE41D2B0BC62";
 width = 709;
 }
 );
+leftKerningGroup = u;
+rightKerningGroup = u;
 unicode = 01B0;
 },
 {
@@ -24238,6 +24418,8 @@ layerId = "6E1B38A8-44EA-440A-BD04-FE41D2B0BC62";
 width = 709;
 }
 );
+leftKerningGroup = u;
+rightKerningGroup = u;
 unicode = 1EE9;
 },
 {
@@ -24270,6 +24452,8 @@ layerId = "6E1B38A8-44EA-440A-BD04-FE41D2B0BC62";
 width = 709;
 }
 );
+leftKerningGroup = u;
+rightKerningGroup = u;
 unicode = 1EF1;
 },
 {
@@ -24302,6 +24486,8 @@ layerId = "6E1B38A8-44EA-440A-BD04-FE41D2B0BC62";
 width = 709;
 }
 );
+leftKerningGroup = u;
+rightKerningGroup = u;
 unicode = 1EEB;
 },
 {
@@ -24334,6 +24520,8 @@ layerId = "6E1B38A8-44EA-440A-BD04-FE41D2B0BC62";
 width = 709;
 }
 );
+leftKerningGroup = u;
+rightKerningGroup = u;
 unicode = 1EED;
 },
 {
@@ -24366,6 +24554,8 @@ layerId = "6E1B38A8-44EA-440A-BD04-FE41D2B0BC62";
 width = 709;
 }
 );
+leftKerningGroup = u;
+rightKerningGroup = u;
 unicode = 1EEF;
 },
 {
@@ -24599,6 +24789,8 @@ layerId = "6E1B38A8-44EA-440A-BD04-FE41D2B0BC62";
 width = 646;
 }
 );
+leftKerningGroup = u;
+rightKerningGroup = u;
 unicode = 0169;
 },
 {
@@ -25541,6 +25733,8 @@ layerId = "6E1B38A8-44EA-440A-BD04-FE41D2B0BC62";
 width = 616;
 }
 );
+leftKerningGroup = y;
+rightKerningGroup = y;
 unicode = 1EF5;
 },
 {
@@ -25573,6 +25767,8 @@ layerId = "6E1B38A8-44EA-440A-BD04-FE41D2B0BC62";
 width = 616;
 }
 );
+leftKerningGroup = y;
+rightKerningGroup = y;
 unicode = 1EF3;
 },
 {
@@ -25605,6 +25801,8 @@ layerId = "6E1B38A8-44EA-440A-BD04-FE41D2B0BC62";
 width = 616;
 }
 );
+leftKerningGroup = y;
+rightKerningGroup = y;
 unicode = 1EF7;
 },
 {
@@ -25669,6 +25867,8 @@ layerId = "6E1B38A8-44EA-440A-BD04-FE41D2B0BC62";
 width = 616;
 }
 );
+leftKerningGroup = y;
+rightKerningGroup = y;
 unicode = 1EF9;
 },
 {
