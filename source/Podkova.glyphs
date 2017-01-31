@@ -42,7 +42,7 @@ name = "Use Line Breaks";
 value = 1;
 }
 );
-date = "2016-12-16 15:33:52 +0000";
+date = "2017-01-31 15:42:25 +0000";
 designer = "Ilya Yudin";
 designerURL = "http://cyreal.org";
 familyName = Podkova;
@@ -202,6 +202,21 @@ sub eight by eight.numr;
 sub nine by nine.numr;
 ";
 name = numr;
+},
+{
+automatic = 1;
+code = "sub zero by zero.dnom;
+sub one by one.dnom;
+sub two by two.dnom;
+sub three by three.dnom;
+sub four by four.dnom;
+sub five by five.dnom;
+sub six by six.dnom;
+sub seven by seven.dnom;
+sub eight by eight.dnom;
+sub nine by nine.dnom;
+";
+name = dnom;
 },
 {
 automatic = 1;
