@@ -288,7 +288,7 @@ value = 1091;
 },
 {
 name = winDescent;
-value = -343;
+value = 343;
 },
 {
 name = typoAscender;
@@ -368,7 +368,7 @@ value = 1091;
 },
 {
 name = winDescent;
-value = -343;
+value = 343;
 },
 {
 name = typoAscender;
