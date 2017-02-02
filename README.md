@@ -19,7 +19,7 @@ Podkova is a monoline slab serif with diagonal terminals. Wide proportions and c
 * GF Latin Pro
 * GF Cyrillic Pro
 
-![Podkova Font](source/sample.png)
+![Podkova Font](sources/sample.png)
 
 ## License
 
