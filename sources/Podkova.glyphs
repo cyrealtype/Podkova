@@ -1,8 +1,5 @@
 {
-.appVersion = "1147";
-DisplayStrings = (
-"/florin"
-);
+.appVersion = "1192";
 classes = (
 {
 automatic = 1;
@@ -10,7 +7,7 @@ code = "A Aacute Abreve Abreveacute Abrevedotbelow Abrevegrave Abrevehookabove A
 name = Uppercase;
 }
 );
-copyright = "Copyright 2011 The Podkova Project Authors (contact@cyreal.org)";
+copyright = "Copyright 2011 The Podkova Project Authors (https://github.com/cyrealtype/Podkova)";
 customParameters = (
 {
 name = trademark;
@@ -78001,5 +77998,5 @@ tH = "62";
 };
 };
 versionMajor = 2;
-versionMinor = 100;
+versionMinor = 101;
 }
