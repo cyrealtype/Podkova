@@ -7,7 +7,7 @@ mkdir -p ../fonts
 fontmake -g Podkova.glyphs -i -o ttf --output-dir ../fonts/
 
 echo "Generating VFs"
-fontmake -g Podkova.glyphs -o variable --output-path ../fonts/Podkova-VF.ttf
+fontmake -g Podkova.glyphs -o variable --output-path ../fonts/Podkova[wght].ttf
 
 rm -rf master_ufo/ instance_ufo/
 
@@ -24,7 +24,7 @@ do
 done
 
 echo "Post processing VFs"
-vfs=$(ls ../fonts/*-VF.ttf)
+vfs=$(ls ../fonts/Podkova[wght].ttf)
 for vf in $vfs
 do
 	gftools fix-dsig -f $vf;
